@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="languagelab.devkit.aspect.structure" uuid="77cfe178-9949-4c34-bd12-1985d7d76edb">
+  <exported-language name="2ef2eb40-0107-434e-b65d-407af430cfec(languagelab.lang.structure)" />
+  <exported-solutions>
+    <exported-solution>7333a6ef-5e40-4497-bb67-41bd362d44d8(languagelab.tools)</exported-solution>
+  </exported-solutions>
+  <generation-plan model="r:efeed1bb-18df-4e7e-a7a2-ab4cc35547fa(languagelab.tools.generationplan.structure)" />
+</dev-kit>
+

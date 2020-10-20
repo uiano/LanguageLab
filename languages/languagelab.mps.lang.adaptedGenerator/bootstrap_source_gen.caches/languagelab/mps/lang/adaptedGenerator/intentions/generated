@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="18byin0mrjhnvh103kjfo25skfhwdhm">
+  <files names="AddLLChangeIfMacro_Intention.java:AddLLCopySRCLMacroWithParam_Intention.java:AddLLIfMacroWithParam_Intention.java:AddLLLoopMacroWithParam_Intention.java:AddLLParentReferenceMacro_Intention.java:AddLLPropertyMacro_Intention.java:AddLLReferenceMacro_Intention.java:AddLLSelfReferenceMacro_Intention.java:AddLLSpecialReferenceMacro_Intention.java:IntentionsDescriptor.java:NewLLReductionMappingRule_Intention.java:NewLLRootMappingRule_Intention.java:NewLLRootTemplate_Intention.java:NewLLTemplateInReductionRule_Intention.java" />
+</product>
+

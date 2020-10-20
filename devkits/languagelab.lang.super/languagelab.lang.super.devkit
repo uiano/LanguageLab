@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="languagelab.lang.super" uuid="2ea6180e-80a6-4c33-9213-18f04563b4e8">
+  <exported-language name="2ef2eb40-0107-434e-b65d-407af430cfec(languagelab.lang.structure)" />
+  <exported-language name="e0a091b2-dc99-4294-a626-8d2e85598ee6(languagelab.mps.lang.adaptedGenerator)" />
+  <exported-language name="0884830c-7aa4-4151-a40f-0c18ee248daa(languagelab.lang.textual)" />
+  <exported-solutions>
+    <exported-solution>7333a6ef-5e40-4497-bb67-41bd362d44d8(languagelab.tools)</exported-solution>
+  </exported-solutions>
+  <generation-plan model="r:2def631e-8c3f-4abc-8683-a0a18335b310(languagelab.tools.superplan)" />
+</dev-kit>
+

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,134,0" name="languagelab.mps.lang.adaptedGenerator.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,54,0" name="languagelab.mps.lang.adaptedGenerator.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="17,0,234,0" name="languagelab.mps.lang.adaptedGenerator.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216630378672">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216630378672" at="12,0,13,0" concept="1" trace="props_LLChangeIfMacro" />
+      <node id="4249922216630378672" at="33,44,34,76" concept="3" />
+      <node id="4249922216630378672" at="34,76,35,139" concept="0" />
+      <node id="4249922216630378672" at="35,139,36,47" concept="0" />
+      <node id="4249922216630378672" at="37,9,38,37" concept="4" />
+      <node id="4249922216630378672" at="32,49,37,9" concept="2" />
+      <scope id="4249922216630378672" at="33,44,36,47">
+        <var name="cpb" id="4249922216630378672" />
+      </scope>
+      <scope id="4249922216630378672" at="32,49,38,37" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216630378672" at="12,0,13,0" concept="5" trace="LLChangeIfMacro" />
+      <node id="4249922216630378672" at="28,116,29,54" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216630378672" at="18,0,19,0" concept="1" trace="myConceptLLChangeIfMacro" />
+      <node id="4249922216630378672" at="53,49,54,40" concept="4" />
+      <node id="4249922216630378672" at="91,73,92,187" concept="3" />
+      <node id="4249922216630378672" at="92,187,93,34" concept="0" />
+      <node id="4249922216630378672" at="93,34,94,127" concept="0" />
+      <node id="4249922216630378672" at="94,127,95,124" concept="0" />
+      <node id="4249922216630378672" at="95,124,96,17" concept="0" />
+      <node id="4249922216630378675" at="96,17,97,112" concept="0" />
+      <node id="4249922216630378673" at="97,112,98,164" concept="0" />
+      <node id="4249922216630378672" at="98,164,99,59" concept="0" />
+      <node id="4249922216630378672" at="99,59,100,22" concept="4" />
+      <node id="4249922216630378672" at="91,0,102,0" concept="6" trace="createDescriptorForLLChangeIfMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216630378672" at="53,49,54,40" />
+      <scope id="4249922216630378672" at="91,73,100,22">
+        <var name="b" id="4249922216630378672" />
+      </scope>
+      <scope id="4249922216630378672" at="91,0,102,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216630699288">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216630699288" at="13,0,14,0" concept="1" trace="props_LLCopySourceListMacro" />
+      <node id="4249922216630699288" at="40,50,41,76" concept="3" />
+      <node id="4249922216630699288" at="41,76,42,55" concept="0" />
+      <node id="4249922216630699288" at="42,55,43,53" concept="0" />
+      <node id="4249922216630699288" at="44,9,45,43" concept="4" />
+      <node id="4249922216630699288" at="39,55,44,9" concept="2" />
+      <scope id="4249922216630699288" at="40,50,43,53">
+        <var name="cpb" id="4249922216630699288" />
+      </scope>
+      <scope id="4249922216630699288" at="39,55,45,43" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216630699288" at="13,0,14,0" concept="5" trace="LLCopySourceListMacro" />
+      <node id="4249922216630699288" at="29,54,30,60" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216630699288" at="19,0,20,0" concept="1" trace="myConceptLLCopySourceListMacro" />
+      <node id="4249922216630699288" at="55,55,56,46" concept="4" />
+      <node id="4249922216630699288" at="102,79,103,193" concept="3" />
+      <node id="4249922216630699288" at="103,193,104,34" concept="0" />
+      <node id="4249922216630699288" at="104,34,105,122" concept="0" />
+      <node id="4249922216630699288" at="105,122,106,124" concept="0" />
+      <node id="4249922216630699288" at="106,124,107,17" concept="0" />
+      <node id="4249922216630699290" at="107,17,108,170" concept="0" />
+      <node id="4249922216630699288" at="108,170,109,59" concept="0" />
+      <node id="4249922216630699288" at="109,59,110,22" concept="4" />
+      <node id="4249922216630699288" at="102,0,112,0" concept="6" trace="createDescriptorForLLCopySourceListMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216630699288" at="55,55,56,46" />
+      <scope id="4249922216630699288" at="102,79,110,22">
+        <var name="b" id="4249922216630699288" />
+      </scope>
+      <scope id="4249922216630699288" at="102,0,112,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216630835522">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216630835522" at="14,0,15,0" concept="1" trace="props_LLIfMacro" />
+      <node id="4249922216630835522" at="47,38,48,76" concept="3" />
+      <node id="4249922216630835522" at="48,76,49,43" concept="0" />
+      <node id="4249922216630835522" at="49,43,50,41" concept="0" />
+      <node id="4249922216630835522" at="51,9,52,31" concept="4" />
+      <node id="4249922216630835522" at="46,43,51,9" concept="2" />
+      <scope id="4249922216630835522" at="47,38,50,41">
+        <var name="cpb" id="4249922216630835522" />
+      </scope>
+      <scope id="4249922216630835522" at="46,43,52,31" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216630835522" at="14,0,15,0" concept="5" trace="LLIfMacro" />
+      <node id="4249922216630835522" at="30,60,31,48" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216630835522" at="20,0,21,0" concept="1" trace="myConceptLLIfMacro" />
+      <node id="4249922216630835522" at="57,43,58,34" concept="4" />
+      <node id="4249922216630835522" at="112,67,113,181" concept="3" />
+      <node id="4249922216630835522" at="113,181,114,34" concept="0" />
+      <node id="4249922216630835522" at="114,34,115,122" concept="0" />
+      <node id="4249922216630835522" at="115,122,116,124" concept="0" />
+      <node id="4249922216630835522" at="116,124,117,17" concept="0" />
+      <node id="4249922216630835525" at="117,17,118,112" concept="0" />
+      <node id="4249922216630835523" at="118,112,119,172" concept="0" />
+      <node id="4249922216630835522" at="119,172,120,59" concept="0" />
+      <node id="4249922216630835522" at="120,59,121,22" concept="4" />
+      <node id="4249922216630835522" at="112,0,123,0" concept="6" trace="createDescriptorForLLIfMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216630835522" at="57,43,58,34" />
+      <scope id="4249922216630835522" at="112,67,121,22">
+        <var name="b" id="4249922216630835522" />
+      </scope>
+      <scope id="4249922216630835522" at="112,0,123,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216630977310">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216630977310" at="19,0,20,0" concept="1" trace="props_LLReduction_MappingRule" />
+      <node id="4249922216630977310" at="82,52,83,76" concept="3" />
+      <node id="4249922216630977310" at="83,76,84,39" concept="0" />
+      <node id="4249922216630977310" at="84,39,85,55" concept="0" />
+      <node id="4249922216630977310" at="86,9,87,45" concept="4" />
+      <node id="4249922216630977310" at="81,57,86,9" concept="2" />
+      <scope id="4249922216630977310" at="82,52,85,55">
+        <var name="cpb" id="4249922216630977310" />
+      </scope>
+      <scope id="4249922216630977310" at="81,57,87,45" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216630977310" at="19,0,20,0" concept="5" trace="LLReduction_MappingRule" />
+      <node id="4249922216630977310" at="35,81,36,62" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216630977310" at="25,0,26,0" concept="1" trace="myConceptLLReduction_MappingRule" />
+      <node id="4249922216630977310" at="67,57,68,48" concept="4" />
+      <node id="4249922216630977310" at="161,81,162,195" concept="3" />
+      <node id="4249922216630977310" at="162,195,163,34" concept="0" />
+      <node id="4249922216630977310" at="163,34,164,135" concept="0" />
+      <node id="4249922216630977310" at="164,135,165,124" concept="0" />
+      <node id="4249922216630977310" at="165,124,166,17" concept="0" />
+      <node id="4249922216630977311" at="166,17,167,166" concept="0" />
+      <node id="4249922216630977310" at="167,166,168,59" concept="0" />
+      <node id="4249922216630977310" at="168,59,169,21" concept="0" />
+      <node id="4249922216630977310" at="169,21,170,22" concept="4" />
+      <node id="4249922216630977310" at="161,0,172,0" concept="6" trace="createDescriptorForLLReduction_MappingRule#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216630977310" at="67,57,68,48" />
+      <scope id="4249922216630977310" at="161,81,170,22">
+        <var name="b" id="4249922216630977310" />
+      </scope>
+      <scope id="4249922216630977310" at="161,0,172,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631125289">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631125289" at="21,0,22,0" concept="1" trace="props_LLRoot_MappingRule" />
+      <node id="4249922216631125289" at="96,47,97,76" concept="3" />
+      <node id="4249922216631125289" at="97,76,98,39" concept="0" />
+      <node id="4249922216631125289" at="98,39,99,50" concept="0" />
+      <node id="4249922216631125289" at="100,9,101,40" concept="4" />
+      <node id="4249922216631125289" at="95,52,100,9" concept="2" />
+      <scope id="4249922216631125289" at="96,47,99,50">
+        <var name="cpb" id="4249922216631125289" />
+      </scope>
+      <scope id="4249922216631125289" at="95,52,101,40" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631125289" at="21,0,22,0" concept="5" trace="LLRoot_MappingRule" />
+      <node id="4249922216631125289" at="37,63,38,57" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631125289" at="27,0,28,0" concept="1" trace="myConceptLLRoot_MappingRule" />
+      <node id="4249922216631125289" at="71,52,72,43" concept="4" />
+      <node id="4249922216631125289" at="182,76,183,190" concept="3" />
+      <node id="4249922216631125289" at="183,190,184,34" concept="0" />
+      <node id="4249922216631125289" at="184,34,185,130" concept="0" />
+      <node id="4249922216631125289" at="185,130,186,124" concept="0" />
+      <node id="4249922216631125289" at="186,124,187,17" concept="0" />
+      <node id="4249922216631125290" at="187,17,188,166" concept="0" />
+      <node id="4249922216631125289" at="188,166,189,59" concept="0" />
+      <node id="4249922216631125289" at="189,59,190,21" concept="0" />
+      <node id="4249922216631125289" at="190,21,191,22" concept="4" />
+      <node id="4249922216631125289" at="182,0,193,0" concept="6" trace="createDescriptorForLLRoot_MappingRule#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631125289" at="71,52,72,43" />
+      <scope id="4249922216631125289" at="182,76,191,22">
+        <var name="b" id="4249922216631125289" />
+      </scope>
+      <scope id="4249922216631125289" at="182,0,193,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631270562">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631270562" at="25,0,26,0" concept="1" trace="props_LLTemplateDeclaration" />
+      <node id="4249922216631270562" at="124,50,125,76" concept="3" />
+      <node id="4249922216631270562" at="125,76,126,35" concept="0" />
+      <node id="4249922216631270562" at="126,35,127,53" concept="0" />
+      <node id="4249922216631270562" at="128,9,129,43" concept="4" />
+      <node id="4249922216631270562" at="123,55,128,9" concept="2" />
+      <scope id="4249922216631270562" at="124,50,127,53">
+        <var name="cpb" id="4249922216631270562" />
+      </scope>
+      <scope id="4249922216631270562" at="123,55,129,43" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631270562" at="25,0,26,0" concept="5" trace="LLTemplateDeclaration" />
+      <node id="4249922216631270562" at="41,62,42,60" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631270562" at="31,0,32,0" concept="1" trace="myConceptLLTemplateDeclaration" />
+      <node id="4249922216631270562" at="79,55,80,46" concept="4" />
+      <node id="4249922216631270562" at="222,79,223,193" concept="3" />
+      <node id="4249922216631270562" at="223,193,224,33" concept="0" />
+      <node id="4249922216631270562" at="224,33,225,132" concept="0" />
+      <node id="4249922216631270562" at="225,132,226,124" concept="0" />
+      <node id="4249922216631270562" at="226,124,227,17" concept="0" />
+      <node id="4249922216631270563" at="227,17,228,166" concept="0" />
+      <node id="4249922216631270562" at="228,166,229,54" concept="0" />
+      <node id="4249922216631270562" at="229,54,230,39" concept="0" />
+      <node id="4249922216631270562" at="230,39,231,22" concept="4" />
+      <node id="4249922216631270562" at="222,0,233,0" concept="6" trace="createDescriptorForLLTemplateDeclaration#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631270562" at="79,55,80,46" />
+      <scope id="4249922216631270562" at="222,79,231,22">
+        <var name="b" id="4249922216631270562" />
+      </scope>
+      <scope id="4249922216631270562" at="222,0,233,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631272565">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631272565" at="15,0,16,0" concept="1" trace="props_LLLoopMacro" />
+      <node id="4249922216631272565" at="54,40,55,76" concept="3" />
+      <node id="4249922216631272565" at="55,76,56,45" concept="0" />
+      <node id="4249922216631272565" at="56,45,57,43" concept="0" />
+      <node id="4249922216631272565" at="58,9,59,33" concept="4" />
+      <node id="4249922216631272565" at="53,45,58,9" concept="2" />
+      <scope id="4249922216631272565" at="54,40,57,43">
+        <var name="cpb" id="4249922216631272565" />
+      </scope>
+      <scope id="4249922216631272565" at="53,45,59,33" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631272565" at="15,0,16,0" concept="5" trace="LLLoopMacro" />
+      <node id="4249922216631272565" at="31,48,32,50" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631272565" at="21,0,22,0" concept="1" trace="myConceptLLLoopMacro" />
+      <node id="4249922216631272565" at="59,45,60,36" concept="4" />
+      <node id="4249922216631272565" at="123,69,124,183" concept="3" />
+      <node id="4249922216631272565" at="124,183,125,34" concept="0" />
+      <node id="4249922216631272565" at="125,34,126,122" concept="0" />
+      <node id="4249922216631272565" at="126,122,127,124" concept="0" />
+      <node id="4249922216631272565" at="127,124,128,17" concept="0" />
+      <node id="4249922216631272566" at="128,17,129,171" concept="0" />
+      <node id="4249922216631272565" at="129,171,130,59" concept="0" />
+      <node id="4249922216631272565" at="130,59,131,22" concept="4" />
+      <node id="4249922216631272565" at="123,0,133,0" concept="6" trace="createDescriptorForLLLoopMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631272565" at="59,45,60,36" />
+      <scope id="4249922216631272565" at="123,69,131,22">
+        <var name="b" id="4249922216631272565" />
+      </scope>
+      <scope id="4249922216631272565" at="123,0,133,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631272618">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631272618" at="16,0,17,0" concept="1" trace="props_LLParentReferenceMacro" />
+      <node id="4249922216631272618" at="61,51,62,76" concept="3" />
+      <node id="4249922216631272618" at="62,76,63,56" concept="0" />
+      <node id="4249922216631272618" at="63,56,64,54" concept="0" />
+      <node id="4249922216631272618" at="65,9,66,44" concept="4" />
+      <node id="4249922216631272618" at="60,56,65,9" concept="2" />
+      <scope id="4249922216631272618" at="61,51,64,54">
+        <var name="cpb" id="4249922216631272618" />
+      </scope>
+      <scope id="4249922216631272618" at="60,56,66,44" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631272618" at="16,0,17,0" concept="5" trace="LLParentReferenceMacro" />
+      <node id="4249922216631272618" at="32,50,33,61" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631272618" at="22,0,23,0" concept="1" trace="myConceptLLParentReferenceMacro" />
+      <node id="4249922216631272618" at="61,56,62,47" concept="4" />
+      <node id="4249922216631272618" at="133,80,134,194" concept="3" />
+      <node id="4249922216631272618" at="134,194,135,34" concept="0" />
+      <node id="4249922216631272618" at="135,34,136,127" concept="0" />
+      <node id="4249922216631272618" at="136,127,137,124" concept="0" />
+      <node id="4249922216631272618" at="137,124,138,17" concept="0" />
+      <node id="4249922216631272618" at="138,17,139,59" concept="0" />
+      <node id="4249922216631272618" at="139,59,140,22" concept="4" />
+      <node id="4249922216631272618" at="133,0,142,0" concept="6" trace="createDescriptorForLLParentReferenceMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631272618" at="61,56,62,47" />
+      <scope id="4249922216631272618" at="133,80,140,22">
+        <var name="b" id="4249922216631272618" />
+      </scope>
+      <scope id="4249922216631272618" at="133,0,142,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631272645">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631272645" at="18,0,19,0" concept="1" trace="props_LLPropertyMacro_GetPropertyValue_Behaviour" />
+      <node id="4249922216631272645" at="75,71,76,76" concept="3" />
+      <node id="4249922216631272645" at="76,76,77,76" concept="0" />
+      <node id="4249922216631272645" at="77,76,78,74" concept="0" />
+      <node id="4249922216631272645" at="79,9,80,64" concept="4" />
+      <node id="4249922216631272645" at="74,76,79,9" concept="2" />
+      <scope id="4249922216631272645" at="75,71,78,74">
+        <var name="cpb" id="4249922216631272645" />
+      </scope>
+      <scope id="4249922216631272645" at="74,76,80,64" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631272645" at="18,0,19,0" concept="5" trace="LLPropertyMacro_GetPropertyValue_Behaviour" />
+      <node id="4249922216631272645" at="34,54,35,81" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631272645" at="24,0,25,0" concept="1" trace="myConceptLLPropertyMacro_GetPropertyValue_Behaviour" />
+      <node id="4249922216631272645" at="65,76,66,67" concept="4" />
+      <node id="4249922216631272645" at="152,100,153,214" concept="3" />
+      <node id="4249922216631272645" at="153,214,154,34" concept="0" />
+      <node id="4249922216631272645" at="154,34,155,144" concept="0" />
+      <node id="4249922216631272645" at="155,144,156,124" concept="0" />
+      <node id="4249922216631272645" at="156,124,157,17" concept="0" />
+      <node id="4249922216631272645" at="157,17,158,54" concept="0" />
+      <node id="4249922216631272645" at="158,54,159,22" concept="4" />
+      <node id="4249922216631272645" at="152,0,161,0" concept="6" trace="createDescriptorForLLPropertyMacro_GetPropertyValue_Behaviour#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631272645" at="65,76,66,67" />
+      <scope id="4249922216631272645" at="152,100,159,22">
+        <var name="b" id="4249922216631272645" />
+      </scope>
+      <scope id="4249922216631272645" at="152,0,161,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631423582">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631423582" at="17,0,18,0" concept="1" trace="props_LLPropertyMacro" />
+      <node id="4249922216631423582" at="68,44,69,76" concept="3" />
+      <node id="4249922216631423582" at="69,76,70,140" concept="0" />
+      <node id="4249922216631423582" at="70,140,71,47" concept="0" />
+      <node id="4249922216631423582" at="72,9,73,37" concept="4" />
+      <node id="4249922216631423582" at="67,49,72,9" concept="2" />
+      <scope id="4249922216631423582" at="68,44,71,47">
+        <var name="cpb" id="4249922216631423582" />
+      </scope>
+      <scope id="4249922216631423582" at="67,49,73,37" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631423582" at="17,0,18,0" concept="5" trace="LLPropertyMacro" />
+      <node id="4249922216631423582" at="33,61,34,54" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631423582" at="23,0,24,0" concept="1" trace="myConceptLLPropertyMacro" />
+      <node id="4249922216631423582" at="63,49,64,40" concept="4" />
+      <node id="4249922216631423582" at="142,73,143,187" concept="3" />
+      <node id="4249922216631423582" at="143,187,144,34" concept="0" />
+      <node id="4249922216631423582" at="144,34,145,126" concept="0" />
+      <node id="4249922216631423582" at="145,126,146,124" concept="0" />
+      <node id="4249922216631423582" at="146,124,147,17" concept="0" />
+      <node id="4249922216631423585" at="147,17,148,165" concept="0" />
+      <node id="4249922216631423582" at="148,165,149,59" concept="0" />
+      <node id="4249922216631423582" at="149,59,150,22" concept="4" />
+      <node id="4249922216631423582" at="142,0,152,0" concept="6" trace="createDescriptorForLLPropertyMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631423582" at="63,49,64,40" />
+      <scope id="4249922216631423582" at="142,73,150,22">
+        <var name="b" id="4249922216631423582" />
+      </scope>
+      <scope id="4249922216631423582" at="142,0,152,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631423642">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631423642" at="20,0,21,0" concept="1" trace="props_LLRootTemplateAnnotation" />
+      <node id="4249922216631423642" at="89,53,90,76" concept="3" />
+      <node id="4249922216631423642" at="90,76,91,58" concept="0" />
+      <node id="4249922216631423642" at="91,58,92,56" concept="0" />
+      <node id="4249922216631423642" at="93,9,94,46" concept="4" />
+      <node id="4249922216631423642" at="88,58,93,9" concept="2" />
+      <scope id="4249922216631423642" at="89,53,92,56">
+        <var name="cpb" id="4249922216631423642" />
+      </scope>
+      <scope id="4249922216631423642" at="88,58,94,46" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631423642" at="20,0,21,0" concept="5" trace="LLRootTemplateAnnotation" />
+      <node id="4249922216631423642" at="36,62,37,63" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631423642" at="26,0,27,0" concept="1" trace="myConceptLLRootTemplateAnnotation" />
+      <node id="4249922216631423642" at="69,58,70,49" concept="4" />
+      <node id="4249922216631423642" at="172,82,173,196" concept="3" />
+      <node id="4249922216631423642" at="173,196,174,34" concept="0" />
+      <node id="4249922216631423642" at="174,34,175,136" concept="0" />
+      <node id="4249922216631423642" at="175,136,176,124" concept="0" />
+      <node id="4249922216631423642" at="176,124,177,17" concept="0" />
+      <node id="4249922216631423643" at="177,17,178,166" concept="0" />
+      <node id="4249922216631423642" at="178,166,179,59" concept="0" />
+      <node id="4249922216631423642" at="179,59,180,22" concept="4" />
+      <node id="4249922216631423642" at="172,0,182,0" concept="6" trace="createDescriptorForLLRootTemplateAnnotation#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631423642" at="69,58,70,49" />
+      <scope id="4249922216631423642" at="172,82,180,22">
+        <var name="b" id="4249922216631423642" />
+      </scope>
+      <scope id="4249922216631423642" at="172,0,182,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631423733">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631423733" at="22,0,23,0" concept="1" trace="props_LLSelfReferenceMacro" />
+      <node id="4249922216631423733" at="103,49,104,76" concept="3" />
+      <node id="4249922216631423733" at="104,76,105,54" concept="0" />
+      <node id="4249922216631423733" at="105,54,106,52" concept="0" />
+      <node id="4249922216631423733" at="107,9,108,42" concept="4" />
+      <node id="4249922216631423733" at="102,54,107,9" concept="2" />
+      <scope id="4249922216631423733" at="103,49,106,52">
+        <var name="cpb" id="4249922216631423733" />
+      </scope>
+      <scope id="4249922216631423733" at="102,54,108,42" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631423733" at="22,0,23,0" concept="5" trace="LLSelfReferenceMacro" />
+      <node id="4249922216631423733" at="38,57,39,59" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631423733" at="28,0,29,0" concept="1" trace="myConceptLLSelfReferenceMacro" />
+      <node id="4249922216631423733" at="73,54,74,45" concept="4" />
+      <node id="4249922216631423733" at="193,78,194,192" concept="3" />
+      <node id="4249922216631423733" at="194,192,195,34" concept="0" />
+      <node id="4249922216631423733" at="195,34,196,127" concept="0" />
+      <node id="4249922216631423733" at="196,127,197,124" concept="0" />
+      <node id="4249922216631423733" at="197,124,198,17" concept="0" />
+      <node id="4249922216631423733" at="198,17,199,59" concept="0" />
+      <node id="4249922216631423733" at="199,59,200,22" concept="4" />
+      <node id="4249922216631423733" at="193,0,202,0" concept="6" trace="createDescriptorForLLSelfReferenceMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631423733" at="73,54,74,45" />
+      <scope id="4249922216631423733" at="193,78,200,22">
+        <var name="b" id="4249922216631423733" />
+      </scope>
+      <scope id="4249922216631423733" at="193,0,202,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631423760">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631423760" at="23,0,24,0" concept="1" trace="props_LLSimpleReferenceMacro" />
+      <node id="4249922216631423760" at="110,51,111,76" concept="3" />
+      <node id="4249922216631423760" at="111,76,112,139" concept="0" />
+      <node id="4249922216631423760" at="112,139,113,54" concept="0" />
+      <node id="4249922216631423760" at="114,9,115,44" concept="4" />
+      <node id="4249922216631423760" at="109,56,114,9" concept="2" />
+      <scope id="4249922216631423760" at="110,51,113,54">
+        <var name="cpb" id="4249922216631423760" />
+      </scope>
+      <scope id="4249922216631423760" at="109,56,115,44" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631423760" at="23,0,24,0" concept="5" trace="LLSimpleReferenceMacro" />
+      <node id="4249922216631423760" at="39,59,40,61" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631423760" at="29,0,30,0" concept="1" trace="myConceptLLSimpleReferenceMacro" />
+      <node id="4249922216631423760" at="75,56,76,47" concept="4" />
+      <node id="4249922216631423760" at="202,80,203,194" concept="3" />
+      <node id="4249922216631423760" at="203,194,204,34" concept="0" />
+      <node id="4249922216631423760" at="204,34,205,127" concept="0" />
+      <node id="4249922216631423760" at="205,127,206,124" concept="0" />
+      <node id="4249922216631423760" at="206,124,207,17" concept="0" />
+      <node id="4249922216631423763" at="207,17,208,164" concept="0" />
+      <node id="4249922216631423760" at="208,164,209,59" concept="0" />
+      <node id="4249922216631423760" at="209,59,210,22" concept="4" />
+      <node id="4249922216631423760" at="202,0,212,0" concept="6" trace="createDescriptorForLLSimpleReferenceMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631423760" at="75,56,76,47" />
+      <scope id="4249922216631423760" at="202,80,210,22">
+        <var name="b" id="4249922216631423760" />
+      </scope>
+      <scope id="4249922216631423760" at="202,0,212,0" />
+    </file>
+  </root>
+  <root nodeRef="r:f94f7eaf-9b72-4a95-af4b-b4ca35e600f1(languagelab.mps.lang.adaptedGenerator.structure)/4249922216631423820">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4249922216631423820" at="24,0,25,0" concept="1" trace="props_LLSpecialReferenceMacro" />
+      <node id="4249922216631423820" at="117,52,118,76" concept="3" />
+      <node id="4249922216631423820" at="118,76,119,57" concept="0" />
+      <node id="4249922216631423820" at="119,57,120,55" concept="0" />
+      <node id="4249922216631423820" at="121,9,122,45" concept="4" />
+      <node id="4249922216631423820" at="116,57,121,9" concept="2" />
+      <scope id="4249922216631423820" at="117,52,120,55">
+        <var name="cpb" id="4249922216631423820" />
+      </scope>
+      <scope id="4249922216631423820" at="116,57,122,45" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4249922216631423820" at="24,0,25,0" concept="5" trace="LLSpecialReferenceMacro" />
+      <node id="4249922216631423820" at="40,61,41,62" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4249922216631423820" at="30,0,31,0" concept="1" trace="myConceptLLSpecialReferenceMacro" />
+      <node id="4249922216631423820" at="77,57,78,48" concept="4" />
+      <node id="4249922216631423820" at="212,81,213,195" concept="3" />
+      <node id="4249922216631423820" at="213,195,214,34" concept="0" />
+      <node id="4249922216631423820" at="214,34,215,127" concept="0" />
+      <node id="4249922216631423820" at="215,127,216,124" concept="0" />
+      <node id="4249922216631423820" at="216,124,217,17" concept="0" />
+      <node id="4249922216631423823" at="217,17,218,163" concept="0" />
+      <node id="4249922216631423820" at="218,163,219,59" concept="0" />
+      <node id="4249922216631423820" at="219,59,220,22" concept="4" />
+      <node id="4249922216631423820" at="212,0,222,0" concept="6" trace="createDescriptorForLLSpecialReferenceMacro#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4249922216631423820" at="77,57,78,48" />
+      <scope id="4249922216631423820" at="212,81,220,22">
+        <var name="b" id="4249922216631423820" />
+      </scope>
+      <scope id="4249922216631423820" at="212,0,222,0" />
+    </file>
+  </root>
+</debug-info>
+

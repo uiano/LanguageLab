@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <root nodeRef="r:4a162f5d-d81f-4aed-893f-4e27456dcb70(languagelab.lang.structure.utils)/5755480520381470039">
+    <file name="SStuffHelper.java">
+      <node id="5755480520381471855" at="11,0,12,0" concept="0" trace="ATTRIBUTE_TYPE" />
+      <node id="5755480520388301293" at="12,0,13,0" concept="0" trace="TYPE_ISNAMED" />
+      <node id="5706563013519936115" at="14,0,15,0" concept="0" trace="ATTRIBUTE_ENUMTYPE" />
+      <node id="5706563013519964883" at="15,0,16,0" concept="0" trace="TYPE_PARENTTYPE" />
+      <node id="5706563013522634327" at="16,0,17,0" concept="0" trace="REFERENCE_TYPE" />
+      <node id="5706563013537682511" at="17,0,18,0" concept="0" trace="AGGREGATE_TYPE" />
+      <node id="5706563013531590022" at="19,0,20,0" concept="0" trace="TYPE_ATTRIBUTES" />
+      <node id="5706563013533345814" at="20,0,21,0" concept="0" trace="TYPE_REFERENCES" />
+      <node id="5706563013533883970" at="21,0,22,0" concept="0" trace="TYPE_AGGREGATES" />
+      <unit id="5755480520381470039" at="10,0,23,0" name="languagelab.lang.structure.utils.SStuffHelper" />
+    </file>
+  </root>
+</debug-info>
+

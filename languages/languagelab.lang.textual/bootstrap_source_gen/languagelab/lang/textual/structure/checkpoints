@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoints>
+  <plan id="LanguageLabSuperPlan">
+    <checkpoint id="afterLLgenSuper" file="languagelabsuperplan-afterllgensuper.mps" />
+  </plan>
+  <plan id="LanguageLabSuperPlan">
+    <checkpoint id="afterMPSgenSuper" file="languagelabsuperplan-aftermpsgensuper.mps" />
+  </plan>
+  <plan id="AspectCPS">
+    <checkpoint id="DescriptorClasses" file="aspectcps-descriptorclasses.mps" />
+  </plan>
+  <plan id="LLCheckpoints">
+    <checkpoint id="MpsLanguages" file="llcheckpoints-mpslanguages.mps" />
+  </plan>
+</checkpoints>
+

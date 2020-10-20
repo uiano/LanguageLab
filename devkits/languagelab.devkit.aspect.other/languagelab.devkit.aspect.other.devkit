@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="languagelab.devkit.aspect.other" uuid="49596f23-d8fd-45ba-bd2c-f7b9ed37dd5a">
+  <exported-language name="e0a091b2-dc99-4294-a626-8d2e85598ee6(languagelab.mps.lang.adaptedGenerator)" />
+  <exported-language name="0884830c-7aa4-4151-a40f-0c18ee248daa(languagelab.lang.textual)" />
+  <exported-solutions>
+    <exported-solution>7333a6ef-5e40-4497-bb67-41bd362d44d8(languagelab.tools)</exported-solution>
+  </exported-solutions>
+  <generation-plan model="r:877249f6-ab76-41ec-b63e-11d065d6112c(languagelab.tools.generationplan.other)" />
+</dev-kit>
+

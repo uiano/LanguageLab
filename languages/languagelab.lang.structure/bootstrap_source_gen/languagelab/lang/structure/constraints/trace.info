@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="13,0,31,0" name="languagelab.lang.structure.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:c16b5068-5889-4880-821d-fbc5ac174aa2(languagelab.lang.structure.constraints)/275199191361861756">
+    <file name="ILLIdentifier_Constraints.java">
+      <node id="275199191361861756" at="17,38,18,167" concept="6" />
+      <node id="275199191361861756" at="22,84,23,119" concept="4" />
+      <node id="8677858327698377527" at="26,40,27,20" concept="5" />
+      <node id="8677858327698377527" at="30,70,31,37" concept="4" />
+      <node id="8677858327698377668" at="31,37,32,100" concept="5" />
+      <node id="275199191361861756" at="34,7,35,22" concept="5" />
+      <node id="275199191361861756" at="17,0,20,0" concept="1" trace="ILLIdentifier_Constraints#()V" />
+      <node id="8677858327698377527" at="25,0,29,0" concept="3" trace="hasOwnValidator#()Z" />
+      <node id="8677858327698377527" at="29,0,34,0" concept="3" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="8677858327698377527" at="23,119,34,7" concept="2" />
+      <node id="275199191361861756" at="21,0,37,0" concept="3" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <scope id="275199191361861756" at="17,38,18,167" />
+      <scope id="8677858327698377527" at="26,40,27,20" />
+      <scope id="8677858327698377527" at="30,70,32,100">
+        <var name="propertyName" id="8677858327698377527" />
+      </scope>
+      <scope id="275199191361861756" at="17,0,20,0" />
+      <scope id="8677858327698377527" at="25,0,29,0" />
+      <scope id="8677858327698377527" at="29,0,34,0">
+        <var name="node" id="8677858327698377527" />
+        <var name="propertyValue" id="8677858327698377527" />
+      </scope>
+      <scope id="275199191361861756" at="22,84,35,22">
+        <var name="properties" id="275199191361861756" />
+      </scope>
+      <scope id="275199191361861756" at="21,0,37,0" />
+      <unit id="8677858327698377527" at="24,137,34,5" name="languagelab.lang.structure.constraints.ILLIdentifier_Constraints$1" />
+      <unit id="275199191361861756" at="16,0,38,0" name="languagelab.lang.structure.constraints.ILLIdentifier_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:c16b5068-5889-4880-821d-fbc5ac174aa2(languagelab.lang.structure.constraints)/5215824001461839996">
+    <file name="ILLPostfixTrick_Constraints.java">
+      <node id="5215824001461839996" at="19,40,20,169" concept="6" />
+      <node id="5215824001461839996" at="24,84,25,119" concept="4" />
+      <node id="5215824001461839997" at="28,37,29,20" concept="5" />
+      <node id="5215824001461839997" at="32,42,33,37" concept="4" />
+      <node id="5215824001461845018" at="34,9,35,426" concept="4" />
+      <node id="5215824001461849547" at="35,426,36,73" concept="4" />
+      <node id="5215824001461840550" at="36,73,37,44" concept="5" />
+      <node id="5215824001461839996" at="40,7,41,22" concept="5" />
+      <node id="5215824001461839996" at="19,0,22,0" concept="1" trace="ILLPostfixTrick_Constraints#()V" />
+      <node id="5215824001461839997" at="27,0,31,0" concept="3" trace="hasOwnGetter#()Z" />
+      <node id="5215824001461839997" at="33,37,38,9" concept="0" />
+      <node id="5215824001461839997" at="31,0,40,0" concept="3" trace="getValue#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Object;" />
+      <node id="5215824001461839997" at="25,119,40,7" concept="2" />
+      <node id="5215824001461839996" at="23,0,43,0" concept="3" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <scope id="5215824001461839996" at="19,40,20,169" />
+      <scope id="5215824001461839997" at="28,37,29,20" />
+      <scope id="5215824001461839996" at="19,0,22,0" />
+      <scope id="5215824001461840000" at="34,9,37,44">
+        <var name="theName" id="5215824001461845019" />
+        <var name="thePostfix" id="5215824001461849548" />
+      </scope>
+      <scope id="5215824001461839997" at="27,0,31,0" />
+      <scope id="5215824001461839997" at="32,42,38,9">
+        <var name="propertyName" id="5215824001461839997" />
+      </scope>
+      <scope id="5215824001461839997" at="31,0,40,0">
+        <var name="node" id="5215824001461839997" />
+      </scope>
+      <scope id="5215824001461839996" at="24,84,41,22">
+        <var name="properties" id="5215824001461839996" />
+      </scope>
+      <scope id="5215824001461839996" at="23,0,43,0" />
+      <unit id="5215824001461839997" at="26,137,40,5" name="languagelab.lang.structure.constraints.ILLPostfixTrick_Constraints$1" />
+      <unit id="5215824001461839996" at="18,0,44,0" name="languagelab.lang.structure.constraints.ILLPostfixTrick_Constraints" />
+    </file>
+  </root>
+</debug-info>
+

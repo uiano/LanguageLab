@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/devkits/languagelab.devkit.aspect.other/languagelab.devkit.aspect.other.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/devkits/languagelab.devkit.aspect.structure/languagelab.devkit.aspect.structure.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/devkits/languagelab.lang.super/languagelab.lang.super.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.cSharpBinding/languagelab.lang.cSharpBinding.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.cSharpBinding/runtime/languagelab.lang.cSharpBinding.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.cSharpBinding/sandbox/languagelab.lang.cSharpBinding.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.nameBinding/languagelab.lang.nameBinding.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.nameBinding/sandbox/languagelab.lang.nameBinding.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.petrinet/languagelab.lang.petrinet.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.petrinet/sandbox/languagelab.lang.petrinet.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.smodel/languagelab.lang.smodel.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.structure/languagelab.lang.structure.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.lang.textual/languagelab.lang.textual.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.declarations/languagelab.mps.declarations.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.adaptedGenerator/languagelab.mps.lang.adaptedGenerator.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.editor.grammar/languagelab.mps.lang.editor.grammar.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.editor.syntax/languagelab.mps.lang.editor.syntax.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.editor/languagelab.mps.lang.editor.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.execution/languagelab.mps.lang.execution.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.execution/sandbox/languagelab.mps.lang.execution.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.textual/languagelab.mps.lang.textual.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.textual/sandbox/languagelab.mps.lang.textual.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.test.petriEdit/languagelab.mps.test.petriEdit.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.test.petriEdit/sandbox/languagelab.mps.test.petriEdit.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.test.petriExec/languagelab.mps.test.petriExec.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.test.petriExec/sandbox/languagelab.mps.test.petriExec.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/languagelab.lang.plugin/languagelab.lang.plugin.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/languagelab.lang.structure.test/languagelab.lang.structure.test.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/languagelab.mps.petrinet.runtime/languagelab.mps.petrinet.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/languagelab.tools/languagelab.tools.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

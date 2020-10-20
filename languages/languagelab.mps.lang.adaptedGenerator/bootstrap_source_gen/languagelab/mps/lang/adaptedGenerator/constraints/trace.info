@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081855346303:jetbrains.mps.baseLanguage.structure.BreakStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1144231330558:jetbrains.mps.baseLanguage.structure.ForStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1076505808687:jetbrains.mps.baseLanguage.structure.WhileStatement" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="13,0,49,0" name="languagelab.mps.lang.adaptedGenerator.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/1168094816278015359">
+    <file name="LLIfMacro_Constraints.java">
+      <node id="1168094816278015359" at="41,0,42,0" concept="10" trace="LOG" />
+      <node id="1168094816278015359" at="42,34,43,33" concept="11" />
+      <node id="1168094816278015360" at="50,44,51,20" concept="8" />
+      <node id="1168094816278015360" at="58,63,59,57" concept="8" />
+      <node id="5755480520378335586" at="62,80,63,110" concept="3" />
+      <node id="1168094816278015365" at="63,110,64,79" concept="7" />
+      <node id="1168094816278015372" at="64,79,65,207" concept="7" />
+      <node id="1168094816278015383" at="65,207,66,0" concept="9" />
+      <node id="1168094816278015384" at="66,0,67,88" concept="7" />
+      <node id="1168094816278015390" at="67,88,68,27" concept="7" />
+      <node id="1168094816278015395" at="69,90,70,136" concept="3" />
+      <node id="1168094816278015409" at="71,20,72,249" concept="3" />
+      <node id="1168094816278015420" at="73,13,74,36" concept="7" />
+      <node id="1168094816278015426" at="75,36,76,129" concept="3" />
+      <node id="1168094816278015437" at="77,88,78,95" concept="3" />
+      <node id="1168094816278015448" at="79,15,80,86" concept="7" />
+      <node id="1168094816278015456" at="80,86,81,78" concept="3" />
+      <node id="1168094816278015471" at="82,13,83,0" concept="9" />
+      <node id="1168094816278015485" at="85,50,86,126" concept="8" />
+      <node id="1168094816278015492" at="88,14,89,22" concept="8" />
+      <node id="1168094816278015359" at="93,6,94,131" concept="7" />
+      <node id="1168094816278015360" at="94,131,95,42" concept="3" />
+      <node id="1168094816278015359" at="95,42,96,22" concept="8" />
+      <node id="1168094816278015359" at="98,0,99,0" concept="10" trace="breakingNode_t7fz3n_a0a0a0a0a1a0a0a0c" />
+      <node id="1168094816278015359" at="101,0,102,0" concept="10" trace="LLIfMacro$lk" />
+      <node id="1168094816278015359" at="102,0,103,0" concept="10" trace="LLTemplateDeclaration$EC" />
+      <node id="1168094816278015359" at="103,0,104,0" concept="10" trace="RootTemplateAnnotation$u8" />
+      <node id="1168094816278015359" at="104,0,105,0" concept="10" trace="LLRootTemplateAnnotation$_J" />
+      <node id="1168094816278015359" at="105,0,106,0" concept="10" trace="INamedConcept$nV" />
+      <node id="1168094816278015359" at="109,0,110,0" concept="10" trace="checkProperty$_0m0" />
+      <node id="1168094816278015359" at="110,0,111,0" concept="10" trace="forType$v0G0" />
+      <node id="1168094816278015359" at="111,0,112,0" concept="10" trace="forType$3Tow" />
+      <node id="1168094816278015359" at="115,0,116,0" concept="10" trace="name$tAp1" />
+      <node id="1168094816278015407" at="71,18,73,13" concept="0" />
+      <node id="1168094816278015359" at="42,0,45,0" concept="2" trace="LLIfMacro_Constraints#()V" />
+      <node id="1168094816278015435" at="76,129,79,15" concept="5" />
+      <node id="1168094816278015479" at="85,0,88,0" concept="6" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1168094816278015360" at="49,0,53,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="1168094816278015360" at="57,0,61,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="1168094816278015393" at="68,27,73,13" concept="5" />
+      <node id="1168094816278015472" at="83,0,88,14" concept="7" />
+      <node id="1168094816278015424" at="74,36,82,13" concept="12" />
+      <node id="1168094816278015360" at="61,0,91,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="1168094816278015360" at="55,56,91,10" concept="8" />
+      <node id="1168094816278015360" at="53,0,93,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="1168094816278015360" at="47,90,93,6" concept="7" />
+      <node id="1168094816278015359" at="46,0,98,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="1168094816278015359" at="42,34,43,33" />
+      <scope id="1168094816278015360" at="50,44,51,20" />
+      <scope id="1168094816278015360" at="58,63,59,57" />
+      <scope id="1168094816278015394" at="69,90,70,136" />
+      <scope id="1168094816278015408" at="71,20,72,249" />
+      <scope id="1168094816278015436" at="77,88,78,95" />
+      <scope id="1168094816278015484" at="85,50,86,126" />
+      <scope id="1168094816278015359" at="42,0,45,0" />
+      <scope id="1168094816278015479" at="85,0,88,0">
+        <var name="child" id="1168094816278015482" />
+      </scope>
+      <scope id="1168094816278015360" at="49,0,53,0" />
+      <scope id="1168094816278015360" at="57,0,61,0" />
+      <scope id="1168094816278015425" at="75,36,81,78">
+        <var name="myParent" id="1168094816278015449" />
+      </scope>
+      <scope id="1168094816278015360" at="62,80,89,22">
+        <var name="ls" id="1168094816278015473" />
+        <var name="myRoot" id="1168094816278015385" />
+        <var name="myType" id="1168094816278015421" />
+        <var name="nameProperty" id="1168094816278015373" />
+        <var name="result" id="1168094816278015366" />
+        <var name="rootType" id="1168094816278015391" />
+      </scope>
+      <scope id="1168094816278015360" at="61,0,91,0">
+        <var name="_context" id="1168094816278015360" />
+      </scope>
+      <scope id="1168094816278015360" at="55,56,91,10" />
+      <scope id="1168094816278015360" at="53,0,93,0" />
+      <scope id="1168094816278015359" at="47,90,96,22">
+        <var name="d0" id="1168094816278015360" />
+        <var name="references" id="1168094816278015359" />
+      </scope>
+      <scope id="1168094816278015359" at="46,0,98,0" />
+      <unit id="1168094816278015359" at="114,0,117,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLIfMacro_Constraints$PROPS" />
+      <unit id="1168094816278015477" at="84,31,88,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLIfMacro_Constraints$1$1$1" />
+      <unit id="1168094816278015359" at="108,0,113,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLIfMacro_Constraints$LINKS" />
+      <unit id="1168094816278015359" at="100,0,107,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLIfMacro_Constraints$CONCEPTS" />
+      <unit id="1168094816278015360" at="56,19,91,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLIfMacro_Constraints$1$1" />
+      <unit id="1168094816278015360" at="48,48,93,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLIfMacro_Constraints$1" />
+      <unit id="1168094816278015359" at="40,0,118,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLIfMacro_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/3847567280518643491">
+    <file name="LLReduction_MappingRule_Constraints.java">
+      <node id="3847567280518643491" at="27,48,28,47" concept="11" />
+      <node id="3847567280518644870" at="35,44,36,20" concept="8" />
+      <node id="3847567280518644870" at="43,63,44,57" concept="8" />
+      <node id="6665866957321038372" at="50,53,51,84" concept="8" />
+      <node id="3847567280518643491" at="57,6,58,131" concept="7" />
+      <node id="3847567280518644870" at="58,131,59,42" concept="3" />
+      <node id="3847567280518643491" at="59,42,60,22" concept="8" />
+      <node id="3847567280518643491" at="62,0,63,0" concept="10" trace="breakingNode_w7wrq2_a0a0a0a0a1a0a0a0c" />
+      <node id="3847567280518643491" at="65,0,66,0" concept="10" trace="LLReduction_MappingRule$lm" />
+      <node id="3847567280518643491" at="66,0,67,0" concept="10" trace="INamedConcept$nV" />
+      <node id="3847567280518643491" at="70,0,71,0" concept="10" trace="forType$lJP0" />
+      <node id="3847567280518643491" at="27,0,30,0" concept="2" trace="LLReduction_MappingRule_Constraints#()V" />
+      <node id="3847567280518644870" at="34,0,38,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="3847567280518644870" at="42,0,46,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321038366" at="49,0,53,0" concept="6" trace="isExcluded#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="6665866957321038358" at="47,80,53,14" concept="8" />
+      <node id="3847567280518644870" at="46,0,55,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="3847567280518644870" at="40,56,55,10" concept="8" />
+      <node id="3847567280518644870" at="38,0,57,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="3847567280518644870" at="32,90,57,6" concept="7" />
+      <node id="3847567280518643491" at="31,0,62,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="3847567280518643491" at="27,48,28,47" />
+      <scope id="3847567280518644870" at="35,44,36,20" />
+      <scope id="3847567280518644870" at="43,63,44,57" />
+      <scope id="6665866957321038371" at="50,53,51,84" />
+      <scope id="3847567280518643491" at="27,0,30,0" />
+      <scope id="3847567280518644870" at="34,0,38,0" />
+      <scope id="3847567280518644870" at="42,0,46,0" />
+      <scope id="6665866957321038366" at="49,0,53,0">
+        <var name="node" id="6665866957321038369" />
+      </scope>
+      <scope id="3847567280518644870" at="47,80,53,14" />
+      <scope id="3847567280518644870" at="46,0,55,0">
+        <var name="_context" id="3847567280518644870" />
+      </scope>
+      <scope id="3847567280518644870" at="40,56,55,10" />
+      <scope id="3847567280518644870" at="38,0,57,0" />
+      <scope id="3847567280518643491" at="32,90,60,22">
+        <var name="d0" id="3847567280518644870" />
+        <var name="references" id="3847567280518643491" />
+      </scope>
+      <scope id="3847567280518643491" at="31,0,62,0" />
+      <unit id="3847567280518643491" at="69,0,72,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLReduction_MappingRule_Constraints$LINKS" />
+      <unit id="3847567280518643491" at="64,0,68,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLReduction_MappingRule_Constraints$CONCEPTS" />
+      <unit id="6665866957321038361" at="48,23,53,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLReduction_MappingRule_Constraints$1$1$1" />
+      <unit id="3847567280518644870" at="41,19,55,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLReduction_MappingRule_Constraints$1$1" />
+      <unit id="3847567280518644870" at="33,48,57,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLReduction_MappingRule_Constraints$1" />
+      <unit id="3847567280518643491" at="26,0,73,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLReduction_MappingRule_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/3847567280518650940">
+    <file name="LLTemplateDeclaration_Constraints.java">
+      <node id="3847567280518650940" at="27,46,28,45" concept="11" />
+      <node id="3847567280518650941" at="35,44,36,20" concept="8" />
+      <node id="3847567280518650941" at="43,63,44,57" concept="8" />
+      <node id="6665866957321038217" at="50,53,51,84" concept="8" />
+      <node id="3847567280518650940" at="57,6,58,131" concept="7" />
+      <node id="3847567280518650941" at="58,131,59,42" concept="3" />
+      <node id="3847567280518650940" at="59,42,60,22" concept="8" />
+      <node id="3847567280518650940" at="62,0,63,0" concept="10" trace="breakingNode_t8me97_a0a0a0a0a1a0a0a0c" />
+      <node id="3847567280518650940" at="65,0,66,0" concept="10" trace="LLTemplateDeclaration$EC" />
+      <node id="3847567280518650940" at="66,0,67,0" concept="10" trace="INamedConcept$nV" />
+      <node id="3847567280518650940" at="70,0,71,0" concept="10" trace="forType$v0G0" />
+      <node id="3847567280518650940" at="27,0,30,0" concept="2" trace="LLTemplateDeclaration_Constraints#()V" />
+      <node id="3847567280518650941" at="34,0,38,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="3847567280518650941" at="42,0,46,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321038211" at="49,0,53,0" concept="6" trace="isExcluded#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="6665866957321038203" at="47,80,53,14" concept="8" />
+      <node id="3847567280518650941" at="46,0,55,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="3847567280518650941" at="40,56,55,10" concept="8" />
+      <node id="3847567280518650941" at="38,0,57,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="3847567280518650941" at="32,90,57,6" concept="7" />
+      <node id="3847567280518650940" at="31,0,62,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="3847567280518650940" at="27,46,28,45" />
+      <scope id="3847567280518650941" at="35,44,36,20" />
+      <scope id="3847567280518650941" at="43,63,44,57" />
+      <scope id="6665866957321038216" at="50,53,51,84" />
+      <scope id="3847567280518650940" at="27,0,30,0" />
+      <scope id="3847567280518650941" at="34,0,38,0" />
+      <scope id="3847567280518650941" at="42,0,46,0" />
+      <scope id="6665866957321038211" at="49,0,53,0">
+        <var name="node" id="6665866957321038214" />
+      </scope>
+      <scope id="3847567280518650941" at="47,80,53,14" />
+      <scope id="3847567280518650941" at="46,0,55,0">
+        <var name="_context" id="3847567280518650941" />
+      </scope>
+      <scope id="3847567280518650941" at="40,56,55,10" />
+      <scope id="3847567280518650941" at="38,0,57,0" />
+      <scope id="3847567280518650940" at="32,90,60,22">
+        <var name="d0" id="3847567280518650941" />
+        <var name="references" id="3847567280518650940" />
+      </scope>
+      <scope id="3847567280518650940" at="31,0,62,0" />
+      <unit id="3847567280518650940" at="69,0,72,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLTemplateDeclaration_Constraints$LINKS" />
+      <unit id="3847567280518650940" at="64,0,68,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLTemplateDeclaration_Constraints$CONCEPTS" />
+      <unit id="6665866957321038206" at="48,23,53,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLTemplateDeclaration_Constraints$1$1$1" />
+      <unit id="3847567280518650941" at="41,19,55,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLTemplateDeclaration_Constraints$1$1" />
+      <unit id="3847567280518650941" at="33,48,57,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLTemplateDeclaration_Constraints$1" />
+      <unit id="3847567280518650940" at="26,0,73,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLTemplateDeclaration_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/3847567280518652333">
+    <file name="LLRootTemplateAnnotation_Constraints.java">
+      <node id="3847567280518652333" at="27,49,28,48" concept="11" />
+      <node id="3847567280518652334" at="35,44,36,20" concept="8" />
+      <node id="3847567280518652334" at="43,63,44,57" concept="8" />
+      <node id="6665866957321037538" at="50,53,51,84" concept="8" />
+      <node id="3847567280518652333" at="57,6,58,131" concept="7" />
+      <node id="3847567280518652334" at="58,131,59,42" concept="3" />
+      <node id="3847567280518652333" at="59,42,60,22" concept="8" />
+      <node id="3847567280518652333" at="62,0,63,0" concept="10" trace="breakingNode_fihhup_a0a0a0a0a1a0a0a0c" />
+      <node id="3847567280518652333" at="65,0,66,0" concept="10" trace="LLRootTemplateAnnotation$_J" />
+      <node id="3847567280518652333" at="66,0,67,0" concept="10" trace="INamedConcept$nV" />
+      <node id="3847567280518652333" at="70,0,71,0" concept="10" trace="forType$3Tow" />
+      <node id="3847567280518652333" at="27,0,30,0" concept="2" trace="LLRootTemplateAnnotation_Constraints#()V" />
+      <node id="3847567280518652334" at="34,0,38,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="3847567280518652334" at="42,0,46,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321037532" at="49,0,53,0" concept="6" trace="isExcluded#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="6665866957321037524" at="47,80,53,14" concept="8" />
+      <node id="3847567280518652334" at="46,0,55,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="3847567280518652334" at="40,56,55,10" concept="8" />
+      <node id="3847567280518652334" at="38,0,57,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="3847567280518652334" at="32,90,57,6" concept="7" />
+      <node id="3847567280518652333" at="31,0,62,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="3847567280518652333" at="27,49,28,48" />
+      <scope id="3847567280518652334" at="35,44,36,20" />
+      <scope id="3847567280518652334" at="43,63,44,57" />
+      <scope id="6665866957321037537" at="50,53,51,84" />
+      <scope id="3847567280518652333" at="27,0,30,0" />
+      <scope id="3847567280518652334" at="34,0,38,0" />
+      <scope id="3847567280518652334" at="42,0,46,0" />
+      <scope id="6665866957321037532" at="49,0,53,0">
+        <var name="node" id="6665866957321037535" />
+      </scope>
+      <scope id="3847567280518652334" at="47,80,53,14" />
+      <scope id="3847567280518652334" at="46,0,55,0">
+        <var name="_context" id="3847567280518652334" />
+      </scope>
+      <scope id="3847567280518652334" at="40,56,55,10" />
+      <scope id="3847567280518652334" at="38,0,57,0" />
+      <scope id="3847567280518652333" at="32,90,60,22">
+        <var name="d0" id="3847567280518652334" />
+        <var name="references" id="3847567280518652333" />
+      </scope>
+      <scope id="3847567280518652333" at="31,0,62,0" />
+      <unit id="3847567280518652333" at="69,0,72,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRootTemplateAnnotation_Constraints$LINKS" />
+      <unit id="3847567280518652333" at="64,0,68,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRootTemplateAnnotation_Constraints$CONCEPTS" />
+      <unit id="6665866957321037527" at="48,23,53,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRootTemplateAnnotation_Constraints$1$1$1" />
+      <unit id="3847567280518652334" at="41,19,55,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRootTemplateAnnotation_Constraints$1$1" />
+      <unit id="3847567280518652334" at="33,48,57,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRootTemplateAnnotation_Constraints$1" />
+      <unit id="3847567280518652333" at="26,0,73,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRootTemplateAnnotation_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/6786033625861978216">
+    <file name="LLRoot_MappingRule_Constraints.java">
+      <node id="6786033625861978216" at="27,43,28,42" concept="11" />
+      <node id="6786033625861978256" at="35,44,36,20" concept="8" />
+      <node id="6786033625861978256" at="43,63,44,57" concept="8" />
+      <node id="6665866957321038019" at="50,53,51,84" concept="8" />
+      <node id="6786033625861978216" at="57,6,58,131" concept="7" />
+      <node id="6786033625861978256" at="58,131,59,42" concept="3" />
+      <node id="6786033625861978216" at="59,42,60,22" concept="8" />
+      <node id="6786033625861978216" at="62,0,63,0" concept="10" trace="breakingNode_nf83oy_a0a0a0a0a1a0a0a0c" />
+      <node id="6786033625861978216" at="65,0,66,0" concept="10" trace="LLRoot_MappingRule$kf" />
+      <node id="6786033625861978216" at="66,0,67,0" concept="10" trace="INamedConcept$nV" />
+      <node id="6786033625861978216" at="70,0,71,0" concept="10" trace="forType$mqiF" />
+      <node id="6786033625861978216" at="27,0,30,0" concept="2" trace="LLRoot_MappingRule_Constraints#()V" />
+      <node id="6786033625861978256" at="34,0,38,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="6786033625861978256" at="42,0,46,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321038013" at="49,0,53,0" concept="6" trace="isExcluded#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="6665866957321038005" at="47,80,53,14" concept="8" />
+      <node id="6786033625861978256" at="46,0,55,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="6786033625861978256" at="40,56,55,10" concept="8" />
+      <node id="6786033625861978256" at="38,0,57,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="6786033625861978256" at="32,90,57,6" concept="7" />
+      <node id="6786033625861978216" at="31,0,62,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="6786033625861978216" at="27,43,28,42" />
+      <scope id="6786033625861978256" at="35,44,36,20" />
+      <scope id="6786033625861978256" at="43,63,44,57" />
+      <scope id="6665866957321038018" at="50,53,51,84" />
+      <scope id="6786033625861978216" at="27,0,30,0" />
+      <scope id="6786033625861978256" at="34,0,38,0" />
+      <scope id="6786033625861978256" at="42,0,46,0" />
+      <scope id="6665866957321038013" at="49,0,53,0">
+        <var name="node" id="6665866957321038016" />
+      </scope>
+      <scope id="6786033625861978256" at="47,80,53,14" />
+      <scope id="6786033625861978256" at="46,0,55,0">
+        <var name="_context" id="6786033625861978256" />
+      </scope>
+      <scope id="6786033625861978256" at="40,56,55,10" />
+      <scope id="6786033625861978256" at="38,0,57,0" />
+      <scope id="6786033625861978216" at="32,90,60,22">
+        <var name="d0" id="6786033625861978256" />
+        <var name="references" id="6786033625861978216" />
+      </scope>
+      <scope id="6786033625861978216" at="31,0,62,0" />
+      <unit id="6786033625861978216" at="69,0,72,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRoot_MappingRule_Constraints$LINKS" />
+      <unit id="6786033625861978216" at="64,0,68,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRoot_MappingRule_Constraints$CONCEPTS" />
+      <unit id="6665866957321038008" at="48,23,53,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRoot_MappingRule_Constraints$1$1$1" />
+      <unit id="6786033625861978256" at="41,19,55,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRoot_MappingRule_Constraints$1$1" />
+      <unit id="6786033625861978256" at="33,48,57,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRoot_MappingRule_Constraints$1" />
+      <unit id="6786033625861978216" at="26,0,73,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLRoot_MappingRule_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/8714292893663096557">
+    <file name="LLLoopMacro_Constraints.java">
+      <node id="8714292893663096557" at="37,36,38,35" concept="11" />
+      <node id="8714292893663096558" at="45,44,46,20" concept="8" />
+      <node id="8714292893663096558" at="53,63,54,57" concept="8" />
+      <node id="6665866957321038928" at="57,80,58,88" concept="7" />
+      <node id="6665866957321038934" at="58,88,59,27" concept="7" />
+      <node id="6665866957321038939" at="60,90,61,136" concept="3" />
+      <node id="6665866957321038952" at="62,20,63,249" concept="3" />
+      <node id="6665866957321038962" at="64,13,65,79" concept="7" />
+      <node id="6665866957321038969" at="65,79,66,36" concept="7" />
+      <node id="6665866957321038975" at="67,36,68,129" concept="3" />
+      <node id="6665866957321038984" at="68,129,69,86" concept="7" />
+      <node id="6665866957321038994" at="70,37,71,50" concept="3" />
+      <node id="6665866957321039005" at="72,22,73,30" concept="3" />
+      <node id="6665866957321039025" at="77,50,78,126" concept="8" />
+      <node id="6665866957321039031" at="80,14,81,22" concept="8" />
+      <node id="8714292893663096557" at="85,6,86,131" concept="7" />
+      <node id="8714292893663096558" at="86,131,87,42" concept="3" />
+      <node id="8714292893663096557" at="87,42,88,22" concept="8" />
+      <node id="8714292893663096557" at="90,0,91,0" concept="10" trace="breakingNode_ngdt7j_a0a0a0a0a1a0a0a0c" />
+      <node id="8714292893663096557" at="93,0,94,0" concept="10" trace="LLLoopMacro$C7" />
+      <node id="8714292893663096557" at="94,0,95,0" concept="10" trace="LLTemplateDeclaration$EC" />
+      <node id="8714292893663096557" at="95,0,96,0" concept="10" trace="RootTemplateAnnotation$u8" />
+      <node id="8714292893663096557" at="96,0,97,0" concept="10" trace="LLRootTemplateAnnotation$_J" />
+      <node id="8714292893663096557" at="97,0,98,0" concept="10" trace="INamedConcept$nV" />
+      <node id="8714292893663096557" at="101,0,102,0" concept="10" trace="loopElements$Aicw" />
+      <node id="8714292893663096557" at="102,0,103,0" concept="10" trace="forType$v0G0" />
+      <node id="8714292893663096557" at="103,0,104,0" concept="10" trace="forType$3Tow" />
+      <node id="8714292893663096557" at="107,0,108,0" concept="10" trace="name$tAp1" />
+      <node id="6665866957321038950" at="62,18,64,13" concept="0" />
+      <node id="6665866957321039003" at="72,20,74,15" concept="0" />
+      <node id="8714292893663096557" at="37,0,40,0" concept="2" trace="LLLoopMacro_Constraints#()V" />
+      <node id="6665866957321039019" at="77,0,80,0" concept="6" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="8714292893663096558" at="44,0,48,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="8714292893663096558" at="52,0,56,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321038937" at="59,27,64,13" concept="5" />
+      <node id="6665866957321038992" at="69,86,74,15" concept="5" />
+      <node id="6665866957321039012" at="75,13,80,14" concept="7" />
+      <node id="6665866957321038973" at="66,36,75,13" concept="12" />
+      <node id="8714292893663096558" at="56,0,83,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="8714292893663096558" at="50,56,83,10" concept="8" />
+      <node id="8714292893663096558" at="48,0,85,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="8714292893663096558" at="42,90,85,6" concept="7" />
+      <node id="8714292893663096557" at="41,0,90,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="8714292893663096557" at="37,36,38,35" />
+      <scope id="8714292893663096558" at="45,44,46,20" />
+      <scope id="8714292893663096558" at="53,63,54,57" />
+      <scope id="6665866957321038938" at="60,90,61,136" />
+      <scope id="6665866957321038951" at="62,20,63,249" />
+      <scope id="6665866957321038993" at="70,37,71,50" />
+      <scope id="6665866957321039004" at="72,22,73,30" />
+      <scope id="6665866957321039024" at="77,50,78,126" />
+      <scope id="8714292893663096557" at="37,0,40,0" />
+      <scope id="6665866957321039019" at="77,0,80,0">
+        <var name="child" id="6665866957321039022" />
+      </scope>
+      <scope id="8714292893663096558" at="44,0,48,0" />
+      <scope id="8714292893663096558" at="52,0,56,0" />
+      <scope id="6665866957321038974" at="67,36,74,15">
+        <var name="myParent" id="6665866957321038985" />
+      </scope>
+      <scope id="8714292893663096558" at="57,80,81,22">
+        <var name="ls" id="6665866957321039013" />
+        <var name="myRoot" id="6665866957321038929" />
+        <var name="myType" id="6665866957321038970" />
+        <var name="result" id="6665866957321038963" />
+        <var name="rootType" id="6665866957321038935" />
+      </scope>
+      <scope id="8714292893663096558" at="56,0,83,0">
+        <var name="_context" id="8714292893663096558" />
+      </scope>
+      <scope id="8714292893663096558" at="50,56,83,10" />
+      <scope id="8714292893663096558" at="48,0,85,0" />
+      <scope id="8714292893663096557" at="42,90,88,22">
+        <var name="d0" id="8714292893663096558" />
+        <var name="references" id="8714292893663096557" />
+      </scope>
+      <scope id="8714292893663096557" at="41,0,90,0" />
+      <unit id="8714292893663096557" at="106,0,109,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLLoopMacro_Constraints$PROPS" />
+      <unit id="6665866957321039017" at="76,31,80,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLLoopMacro_Constraints$1$1$1" />
+      <unit id="8714292893663096557" at="100,0,105,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLLoopMacro_Constraints$LINKS" />
+      <unit id="8714292893663096557" at="92,0,99,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLLoopMacro_Constraints$CONCEPTS" />
+      <unit id="8714292893663096558" at="51,19,83,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLLoopMacro_Constraints$1$1" />
+      <unit id="8714292893663096558" at="43,48,85,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLLoopMacro_Constraints$1" />
+      <unit id="8714292893663096557" at="36,0,110,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLLoopMacro_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/8714292893663196794">
+    <file name="LLCopySourceListMacro_Constraints.java">
+      <node id="8714292893663196794" at="37,46,38,45" concept="11" />
+      <node id="8714292893663196795" at="45,44,46,20" concept="8" />
+      <node id="8714292893663196795" at="53,63,54,57" concept="8" />
+      <node id="6665866957321037551" at="57,80,58,88" concept="7" />
+      <node id="6665866957321037557" at="58,88,59,27" concept="7" />
+      <node id="6665866957321037562" at="60,90,61,136" concept="3" />
+      <node id="6665866957321037575" at="62,20,63,249" concept="3" />
+      <node id="6665866957321037585" at="64,13,65,79" concept="7" />
+      <node id="6665866957321037592" at="65,79,66,36" concept="7" />
+      <node id="6665866957321037598" at="67,36,68,129" concept="3" />
+      <node id="6665866957321037607" at="68,129,69,86" concept="7" />
+      <node id="6665866957321037617" at="70,37,71,50" concept="3" />
+      <node id="6665866957321037628" at="72,22,73,30" concept="3" />
+      <node id="6665866957321037648" at="77,50,78,126" concept="8" />
+      <node id="6665866957321037654" at="80,14,81,22" concept="8" />
+      <node id="8714292893663196794" at="85,6,86,131" concept="7" />
+      <node id="8714292893663196795" at="86,131,87,42" concept="3" />
+      <node id="8714292893663196794" at="87,42,88,22" concept="8" />
+      <node id="8714292893663196794" at="90,0,91,0" concept="10" trace="breakingNode_s5hvwa_a0a0a0a0a1a0a0a0c" />
+      <node id="8714292893663196794" at="93,0,94,0" concept="10" trace="LLCopySourceListMacro$EN" />
+      <node id="8714292893663196794" at="94,0,95,0" concept="10" trace="LLTemplateDeclaration$EC" />
+      <node id="8714292893663196794" at="95,0,96,0" concept="10" trace="RootTemplateAnnotation$u8" />
+      <node id="8714292893663196794" at="96,0,97,0" concept="10" trace="LLRootTemplateAnnotation$_J" />
+      <node id="8714292893663196794" at="97,0,98,0" concept="10" trace="INamedConcept$nV" />
+      <node id="8714292893663196794" at="101,0,102,0" concept="10" trace="myAggregate$a61a" />
+      <node id="8714292893663196794" at="102,0,103,0" concept="10" trace="forType$v0G0" />
+      <node id="8714292893663196794" at="103,0,104,0" concept="10" trace="forType$3Tow" />
+      <node id="8714292893663196794" at="107,0,108,0" concept="10" trace="name$tAp1" />
+      <node id="6665866957321037573" at="62,18,64,13" concept="0" />
+      <node id="6665866957321037626" at="72,20,74,15" concept="0" />
+      <node id="8714292893663196794" at="37,0,40,0" concept="2" trace="LLCopySourceListMacro_Constraints#()V" />
+      <node id="6665866957321037642" at="77,0,80,0" concept="6" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="8714292893663196795" at="44,0,48,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="8714292893663196795" at="52,0,56,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321037560" at="59,27,64,13" concept="5" />
+      <node id="6665866957321037615" at="69,86,74,15" concept="5" />
+      <node id="6665866957321037635" at="75,13,80,14" concept="7" />
+      <node id="6665866957321037596" at="66,36,75,13" concept="12" />
+      <node id="8714292893663196795" at="56,0,83,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="8714292893663196795" at="50,56,83,10" concept="8" />
+      <node id="8714292893663196795" at="48,0,85,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="8714292893663196795" at="42,90,85,6" concept="7" />
+      <node id="8714292893663196794" at="41,0,90,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="8714292893663196794" at="37,46,38,45" />
+      <scope id="8714292893663196795" at="45,44,46,20" />
+      <scope id="8714292893663196795" at="53,63,54,57" />
+      <scope id="6665866957321037561" at="60,90,61,136" />
+      <scope id="6665866957321037574" at="62,20,63,249" />
+      <scope id="6665866957321037616" at="70,37,71,50" />
+      <scope id="6665866957321037627" at="72,22,73,30" />
+      <scope id="6665866957321037647" at="77,50,78,126" />
+      <scope id="8714292893663196794" at="37,0,40,0" />
+      <scope id="6665866957321037642" at="77,0,80,0">
+        <var name="child" id="6665866957321037645" />
+      </scope>
+      <scope id="8714292893663196795" at="44,0,48,0" />
+      <scope id="8714292893663196795" at="52,0,56,0" />
+      <scope id="6665866957321037597" at="67,36,74,15">
+        <var name="myParent" id="6665866957321037608" />
+      </scope>
+      <scope id="8714292893663196795" at="57,80,81,22">
+        <var name="ls" id="6665866957321037636" />
+        <var name="myRoot" id="6665866957321037552" />
+        <var name="myType" id="6665866957321037593" />
+        <var name="result" id="6665866957321037586" />
+        <var name="rootType" id="6665866957321037558" />
+      </scope>
+      <scope id="8714292893663196795" at="56,0,83,0">
+        <var name="_context" id="8714292893663196795" />
+      </scope>
+      <scope id="8714292893663196795" at="50,56,83,10" />
+      <scope id="8714292893663196795" at="48,0,85,0" />
+      <scope id="8714292893663196794" at="42,90,88,22">
+        <var name="d0" id="8714292893663196795" />
+        <var name="references" id="8714292893663196794" />
+      </scope>
+      <scope id="8714292893663196794" at="41,0,90,0" />
+      <unit id="8714292893663196794" at="106,0,109,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLCopySourceListMacro_Constraints$PROPS" />
+      <unit id="6665866957321037640" at="76,31,80,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLCopySourceListMacro_Constraints$1$1$1" />
+      <unit id="8714292893663196794" at="100,0,105,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLCopySourceListMacro_Constraints$LINKS" />
+      <unit id="8714292893663196794" at="92,0,99,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLCopySourceListMacro_Constraints$CONCEPTS" />
+      <unit id="8714292893663196795" at="51,19,83,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLCopySourceListMacro_Constraints$1$1" />
+      <unit id="8714292893663196795" at="43,48,85,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLCopySourceListMacro_Constraints$1" />
+      <unit id="8714292893663196794" at="36,0,110,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLCopySourceListMacro_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/8714292893663205599">
+    <file name="LLChangeIfMacro_Constraints.java">
+      <node id="8714292893663205599" at="37,40,38,39" concept="11" />
+      <node id="8714292893663205600" at="45,44,46,20" concept="8" />
+      <node id="8714292893663205600" at="53,63,54,57" concept="8" />
+      <node id="6665866957321038385" at="57,80,58,88" concept="7" />
+      <node id="6665866957321038391" at="58,88,59,34" concept="7" />
+      <node id="6665866957321038405" at="61,141,62,203" concept="7" />
+      <node id="6665866957321038418" at="63,62,64,169" concept="7" />
+      <node id="6665866957321038430" at="64,169,65,84" concept="3" />
+      <node id="6665866957321038442" at="65,84,66,24" concept="1" />
+      <node id="6665866957321038461" at="71,92,72,138" concept="3" />
+      <node id="6665866957321038474" at="73,22,74,251" concept="3" />
+      <node id="6665866957321038487" at="76,13,77,79" concept="7" />
+      <node id="6665866957321038494" at="77,79,78,36" concept="7" />
+      <node id="6665866957321038500" at="79,36,80,129" concept="3" />
+      <node id="6665866957321038509" at="80,129,81,86" concept="7" />
+      <node id="6665866957321038517" at="81,86,82,78" concept="3" />
+      <node id="6665866957321038532" at="83,13,84,0" concept="9" />
+      <node id="6665866957321038546" at="86,50,87,126" concept="8" />
+      <node id="6665866957321038552" at="89,14,90,22" concept="8" />
+      <node id="8714292893663205599" at="94,6,95,131" concept="7" />
+      <node id="8714292893663205600" at="95,131,96,42" concept="3" />
+      <node id="8714292893663205599" at="96,42,97,22" concept="8" />
+      <node id="8714292893663205599" at="99,0,100,0" concept="10" trace="breakingNode_7zk497_a0a0a0a0a1a0a0a0c" />
+      <node id="8714292893663205599" at="102,0,103,0" concept="10" trace="LLChangeIfMacro$OM" />
+      <node id="8714292893663205599" at="103,0,104,0" concept="10" trace="NodeMacro$Je" />
+      <node id="8714292893663205599" at="104,0,105,0" concept="10" trace="LLLoopMacro$C7" />
+      <node id="8714292893663205599" at="105,0,106,0" concept="10" trace="LLTemplateDeclaration$EC" />
+      <node id="8714292893663205599" at="106,0,107,0" concept="10" trace="RootTemplateAnnotation$u8" />
+      <node id="8714292893663205599" at="107,0,108,0" concept="10" trace="LLRootTemplateAnnotation$_J" />
+      <node id="8714292893663205599" at="108,0,109,0" concept="10" trace="INamedConcept$nV" />
+      <node id="8714292893663205599" at="112,0,113,0" concept="10" trace="myRef$L970" />
+      <node id="8714292893663205599" at="113,0,114,0" concept="10" trace="loopElements$Aicw" />
+      <node id="8714292893663205599" at="114,0,115,0" concept="10" trace="forType$v0G0" />
+      <node id="8714292893663205599" at="115,0,116,0" concept="10" trace="forType$3Tow" />
+      <node id="8714292893663205599" at="119,0,120,0" concept="10" trace="name$tAp1" />
+      <node id="6665866957321038472" at="73,20,75,15" concept="0" />
+      <node id="8714292893663205599" at="37,0,40,0" concept="2" trace="LLChangeIfMacro_Constraints#()V" />
+      <node id="6665866957321038540" at="86,0,89,0" concept="6" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="8714292893663205600" at="44,0,48,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="8714292893663205600" at="52,0,56,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321038416" at="62,203,67,17" concept="5" />
+      <node id="6665866957321038459" at="70,35,75,15" concept="5" />
+      <node id="6665866957321038498" at="78,36,83,13" concept="12" />
+      <node id="6665866957321038533" at="84,0,89,14" concept="7" />
+      <node id="6665866957321038457" at="69,13,76,13" concept="5" />
+      <node id="6665866957321038397" at="60,140,68,15" concept="5" />
+      <node id="6665866957321038395" at="59,34,69,13" concept="4" />
+      <node id="8714292893663205600" at="56,0,92,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="8714292893663205600" at="50,56,92,10" concept="8" />
+      <node id="8714292893663205600" at="48,0,94,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="8714292893663205600" at="42,90,94,6" concept="7" />
+      <node id="8714292893663205599" at="41,0,99,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="8714292893663205599" at="37,40,38,39" />
+      <scope id="8714292893663205600" at="45,44,46,20" />
+      <scope id="8714292893663205600" at="53,63,54,57" />
+      <scope id="6665866957321038460" at="71,92,72,138" />
+      <scope id="6665866957321038473" at="73,22,74,251" />
+      <scope id="6665866957321038545" at="86,50,87,126" />
+      <scope id="8714292893663205599" at="37,0,40,0" />
+      <scope id="6665866957321038417" at="63,62,66,24">
+        <var name="tempRoot" id="6665866957321038419" />
+      </scope>
+      <scope id="6665866957321038499" at="79,36,82,78">
+        <var name="myParent" id="6665866957321038510" />
+      </scope>
+      <scope id="6665866957321038540" at="86,0,89,0">
+        <var name="child" id="6665866957321038543" />
+      </scope>
+      <scope id="8714292893663205600" at="44,0,48,0" />
+      <scope id="8714292893663205600" at="52,0,56,0" />
+      <scope id="6665866957321038458" at="70,35,75,15" />
+      <scope id="6665866957321038404" at="61,141,67,17">
+        <var name="seq" id="6665866957321038406" />
+      </scope>
+      <scope id="6665866957321038396" at="60,140,68,15" />
+      <scope id="6665866957321038395" at="59,34,69,13">
+        <var name="currentNode" id="6665866957321038446" />
+      </scope>
+      <scope id="8714292893663205600" at="57,80,90,22">
+        <var name="ls" id="6665866957321038534" />
+        <var name="myRoot" id="6665866957321038386" />
+        <var name="myType" id="6665866957321038495" />
+        <var name="result" id="6665866957321038488" />
+        <var name="rootType" id="6665866957321038392" />
+      </scope>
+      <scope id="8714292893663205600" at="56,0,92,0">
+        <var name="_context" id="8714292893663205600" />
+      </scope>
+      <scope id="8714292893663205600" at="50,56,92,10" />
+      <scope id="8714292893663205600" at="48,0,94,0" />
+      <scope id="8714292893663205599" at="42,90,97,22">
+        <var name="d0" id="8714292893663205600" />
+        <var name="references" id="8714292893663205599" />
+      </scope>
+      <scope id="8714292893663205599" at="41,0,99,0" />
+      <unit id="8714292893663205599" at="118,0,121,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLChangeIfMacro_Constraints$PROPS" />
+      <unit id="6665866957321038538" at="85,31,89,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLChangeIfMacro_Constraints$1$1$1" />
+      <unit id="8714292893663205599" at="111,0,117,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLChangeIfMacro_Constraints$LINKS" />
+      <unit id="8714292893663205599" at="101,0,110,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLChangeIfMacro_Constraints$CONCEPTS" />
+      <unit id="8714292893663205600" at="51,19,92,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLChangeIfMacro_Constraints$1$1" />
+      <unit id="8714292893663205600" at="43,48,94,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLChangeIfMacro_Constraints$1" />
+      <unit id="8714292893663205599" at="36,0,122,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLChangeIfMacro_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/8714292893663263184">
+    <file name="LLSimpleReferenceMacro_Constraints.java">
+      <node id="8714292893663263184" at="37,47,38,46" concept="11" />
+      <node id="8714292893663263185" at="45,44,46,20" concept="8" />
+      <node id="8714292893663263185" at="53,63,54,57" concept="8" />
+      <node id="6665866957321038032" at="57,80,58,88" concept="7" />
+      <node id="6665866957321038038" at="58,88,59,34" concept="7" />
+      <node id="6665866957321038052" at="61,141,62,203" concept="7" />
+      <node id="6665866957321038065" at="63,62,64,169" concept="7" />
+      <node id="6665866957321038077" at="64,169,65,84" concept="3" />
+      <node id="6665866957321038089" at="65,84,66,24" concept="1" />
+      <node id="6665866957321038108" at="71,92,72,138" concept="3" />
+      <node id="6665866957321038121" at="73,22,74,251" concept="3" />
+      <node id="6665866957321038134" at="76,13,77,79" concept="7" />
+      <node id="6665866957321038141" at="77,79,78,36" concept="7" />
+      <node id="6665866957321038147" at="79,36,80,129" concept="3" />
+      <node id="6665866957321038156" at="80,129,81,86" concept="7" />
+      <node id="6665866957321038164" at="81,86,82,78" concept="3" />
+      <node id="6665866957321038179" at="83,13,84,0" concept="9" />
+      <node id="6665866957321038193" at="86,50,87,126" concept="8" />
+      <node id="6665866957321038199" at="89,14,90,22" concept="8" />
+      <node id="8714292893663263184" at="94,6,95,131" concept="7" />
+      <node id="8714292893663263185" at="95,131,96,42" concept="3" />
+      <node id="8714292893663263184" at="96,42,97,22" concept="8" />
+      <node id="8714292893663263184" at="99,0,100,0" concept="10" trace="breakingNode_2jkzgl_a0a0a0a0a1a0a0a0c" />
+      <node id="8714292893663263184" at="102,0,103,0" concept="10" trace="LLSimpleReferenceMacro$ki" />
+      <node id="8714292893663263184" at="103,0,104,0" concept="10" trace="NodeMacro$Je" />
+      <node id="8714292893663263184" at="104,0,105,0" concept="10" trace="LLLoopMacro$C7" />
+      <node id="8714292893663263184" at="105,0,106,0" concept="10" trace="LLTemplateDeclaration$EC" />
+      <node id="8714292893663263184" at="106,0,107,0" concept="10" trace="RootTemplateAnnotation$u8" />
+      <node id="8714292893663263184" at="107,0,108,0" concept="10" trace="LLRootTemplateAnnotation$_J" />
+      <node id="8714292893663263184" at="108,0,109,0" concept="10" trace="INamedConcept$nV" />
+      <node id="8714292893663263184" at="112,0,113,0" concept="10" trace="myRef$41nY" />
+      <node id="8714292893663263184" at="113,0,114,0" concept="10" trace="loopElements$Aicw" />
+      <node id="8714292893663263184" at="114,0,115,0" concept="10" trace="forType$v0G0" />
+      <node id="8714292893663263184" at="115,0,116,0" concept="10" trace="forType$3Tow" />
+      <node id="8714292893663263184" at="119,0,120,0" concept="10" trace="name$tAp1" />
+      <node id="6665866957321038119" at="73,20,75,15" concept="0" />
+      <node id="8714292893663263184" at="37,0,40,0" concept="2" trace="LLSimpleReferenceMacro_Constraints#()V" />
+      <node id="6665866957321038187" at="86,0,89,0" concept="6" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="8714292893663263185" at="44,0,48,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="8714292893663263185" at="52,0,56,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321038063" at="62,203,67,17" concept="5" />
+      <node id="6665866957321038106" at="70,35,75,15" concept="5" />
+      <node id="6665866957321038145" at="78,36,83,13" concept="12" />
+      <node id="6665866957321038180" at="84,0,89,14" concept="7" />
+      <node id="6665866957321038104" at="69,13,76,13" concept="5" />
+      <node id="6665866957321038044" at="60,140,68,15" concept="5" />
+      <node id="6665866957321038042" at="59,34,69,13" concept="4" />
+      <node id="8714292893663263185" at="56,0,92,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="8714292893663263185" at="50,56,92,10" concept="8" />
+      <node id="8714292893663263185" at="48,0,94,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="8714292893663263185" at="42,90,94,6" concept="7" />
+      <node id="8714292893663263184" at="41,0,99,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="8714292893663263184" at="37,47,38,46" />
+      <scope id="8714292893663263185" at="45,44,46,20" />
+      <scope id="8714292893663263185" at="53,63,54,57" />
+      <scope id="6665866957321038107" at="71,92,72,138" />
+      <scope id="6665866957321038120" at="73,22,74,251" />
+      <scope id="6665866957321038192" at="86,50,87,126" />
+      <scope id="8714292893663263184" at="37,0,40,0" />
+      <scope id="6665866957321038064" at="63,62,66,24">
+        <var name="tempRoot" id="6665866957321038066" />
+      </scope>
+      <scope id="6665866957321038146" at="79,36,82,78">
+        <var name="myParent" id="6665866957321038157" />
+      </scope>
+      <scope id="6665866957321038187" at="86,0,89,0">
+        <var name="child" id="6665866957321038190" />
+      </scope>
+      <scope id="8714292893663263185" at="44,0,48,0" />
+      <scope id="8714292893663263185" at="52,0,56,0" />
+      <scope id="6665866957321038105" at="70,35,75,15" />
+      <scope id="6665866957321038051" at="61,141,67,17">
+        <var name="seq" id="6665866957321038053" />
+      </scope>
+      <scope id="6665866957321038043" at="60,140,68,15" />
+      <scope id="6665866957321038042" at="59,34,69,13">
+        <var name="currentNode" id="6665866957321038093" />
+      </scope>
+      <scope id="8714292893663263185" at="57,80,90,22">
+        <var name="ls" id="6665866957321038181" />
+        <var name="myRoot" id="6665866957321038033" />
+        <var name="myType" id="6665866957321038142" />
+        <var name="result" id="6665866957321038135" />
+        <var name="rootType" id="6665866957321038039" />
+      </scope>
+      <scope id="8714292893663263185" at="56,0,92,0">
+        <var name="_context" id="8714292893663263185" />
+      </scope>
+      <scope id="8714292893663263185" at="50,56,92,10" />
+      <scope id="8714292893663263185" at="48,0,94,0" />
+      <scope id="8714292893663263184" at="42,90,97,22">
+        <var name="d0" id="8714292893663263185" />
+        <var name="references" id="8714292893663263184" />
+      </scope>
+      <scope id="8714292893663263184" at="41,0,99,0" />
+      <unit id="8714292893663263184" at="118,0,121,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSimpleReferenceMacro_Constraints$PROPS" />
+      <unit id="6665866957321038185" at="85,31,89,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSimpleReferenceMacro_Constraints$1$1$1" />
+      <unit id="8714292893663263184" at="111,0,117,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSimpleReferenceMacro_Constraints$LINKS" />
+      <unit id="8714292893663263184" at="101,0,110,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSimpleReferenceMacro_Constraints$CONCEPTS" />
+      <unit id="8714292893663263185" at="51,19,92,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSimpleReferenceMacro_Constraints$1$1" />
+      <unit id="8714292893663263185" at="43,48,94,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSimpleReferenceMacro_Constraints$1" />
+      <unit id="8714292893663263184" at="36,0,122,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSimpleReferenceMacro_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/8714292893663420488">
+    <file name="LLSpecialReferenceMacro_Constraints.java">
+      <node id="8714292893663420488" at="37,48,38,47" concept="11" />
+      <node id="8714292893663420489" at="45,44,46,20" concept="8" />
+      <node id="8714292893663420489" at="53,63,54,57" concept="8" />
+      <node id="6665866957321038574" at="57,80,58,88" concept="7" />
+      <node id="6665866957321038580" at="58,88,59,34" concept="7" />
+      <node id="6665866957321038594" at="61,141,62,203" concept="7" />
+      <node id="5706563013527019014" at="63,62,64,169" concept="7" />
+      <node id="6665866957321038619" at="64,169,65,84" concept="3" />
+      <node id="6665866957321038631" at="65,84,66,24" concept="1" />
+      <node id="6665866957321038650" at="71,92,72,138" concept="3" />
+      <node id="6665866957321038663" at="73,22,74,251" concept="3" />
+      <node id="6665866957321038676" at="76,13,77,79" concept="7" />
+      <node id="6665866957321038683" at="77,79,78,36" concept="7" />
+      <node id="6665866957321038689" at="79,36,80,129" concept="3" />
+      <node id="6665866957321038698" at="80,129,81,86" concept="7" />
+      <node id="6665866957321038706" at="81,86,82,78" concept="3" />
+      <node id="6665866957321038721" at="83,13,84,0" concept="9" />
+      <node id="6665866957321038735" at="86,50,87,126" concept="8" />
+      <node id="6665866957321038741" at="89,14,90,22" concept="8" />
+      <node id="8714292893663420488" at="94,6,95,131" concept="7" />
+      <node id="8714292893663420489" at="95,131,96,42" concept="3" />
+      <node id="8714292893663420488" at="96,42,97,22" concept="8" />
+      <node id="8714292893663420488" at="99,0,100,0" concept="10" trace="breakingNode_7ga9e0_a0a0a0a0a1a0a0a0c" />
+      <node id="8714292893663420488" at="102,0,103,0" concept="10" trace="LLSpecialReferenceMacro$DH" />
+      <node id="8714292893663420488" at="103,0,104,0" concept="10" trace="NodeMacro$Je" />
+      <node id="8714292893663420488" at="104,0,105,0" concept="10" trace="LLLoopMacro$C7" />
+      <node id="8714292893663420488" at="105,0,106,0" concept="10" trace="LLTemplateDeclaration$EC" />
+      <node id="8714292893663420488" at="106,0,107,0" concept="10" trace="RootTemplateAnnotation$u8" />
+      <node id="8714292893663420488" at="107,0,108,0" concept="10" trace="LLRootTemplateAnnotation$_J" />
+      <node id="8714292893663420488" at="108,0,109,0" concept="10" trace="INamedConcept$nV" />
+      <node id="8714292893663420488" at="112,0,113,0" concept="10" trace="myRef$47Uu" />
+      <node id="8714292893663420488" at="113,0,114,0" concept="10" trace="loopElements$Aicw" />
+      <node id="8714292893663420488" at="114,0,115,0" concept="10" trace="forType$v0G0" />
+      <node id="8714292893663420488" at="115,0,116,0" concept="10" trace="forType$3Tow" />
+      <node id="8714292893663420488" at="119,0,120,0" concept="10" trace="name$tAp1" />
+      <node id="6665866957321038661" at="73,20,75,15" concept="0" />
+      <node id="8714292893663420488" at="37,0,40,0" concept="2" trace="LLSpecialReferenceMacro_Constraints#()V" />
+      <node id="6665866957321038729" at="86,0,89,0" concept="6" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="8714292893663420489" at="44,0,48,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="8714292893663420489" at="52,0,56,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321038605" at="62,203,67,17" concept="5" />
+      <node id="6665866957321038648" at="70,35,75,15" concept="5" />
+      <node id="6665866957321038687" at="78,36,83,13" concept="12" />
+      <node id="6665866957321038722" at="84,0,89,14" concept="7" />
+      <node id="6665866957321038646" at="69,13,76,13" concept="5" />
+      <node id="6665866957321038586" at="60,140,68,15" concept="5" />
+      <node id="6665866957321038584" at="59,34,69,13" concept="4" />
+      <node id="8714292893663420489" at="56,0,92,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="8714292893663420489" at="50,56,92,10" concept="8" />
+      <node id="8714292893663420489" at="48,0,94,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="8714292893663420489" at="42,90,94,6" concept="7" />
+      <node id="8714292893663420488" at="41,0,99,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="8714292893663420488" at="37,48,38,47" />
+      <scope id="8714292893663420489" at="45,44,46,20" />
+      <scope id="8714292893663420489" at="53,63,54,57" />
+      <scope id="6665866957321038649" at="71,92,72,138" />
+      <scope id="6665866957321038662" at="73,22,74,251" />
+      <scope id="6665866957321038734" at="86,50,87,126" />
+      <scope id="8714292893663420488" at="37,0,40,0" />
+      <scope id="6665866957321038606" at="63,62,66,24">
+        <var name="tempRoot" id="5706563013527019015" />
+      </scope>
+      <scope id="6665866957321038688" at="79,36,82,78">
+        <var name="myParent" id="6665866957321038699" />
+      </scope>
+      <scope id="6665866957321038729" at="86,0,89,0">
+        <var name="child" id="6665866957321038732" />
+      </scope>
+      <scope id="8714292893663420489" at="44,0,48,0" />
+      <scope id="8714292893663420489" at="52,0,56,0" />
+      <scope id="6665866957321038647" at="70,35,75,15" />
+      <scope id="6665866957321038593" at="61,141,67,17">
+        <var name="seq" id="6665866957321038595" />
+      </scope>
+      <scope id="6665866957321038585" at="60,140,68,15" />
+      <scope id="6665866957321038584" at="59,34,69,13">
+        <var name="currentNode" id="6665866957321038635" />
+      </scope>
+      <scope id="8714292893663420489" at="57,80,90,22">
+        <var name="ls" id="6665866957321038723" />
+        <var name="myRoot" id="6665866957321038575" />
+        <var name="myType" id="6665866957321038684" />
+        <var name="result" id="6665866957321038677" />
+        <var name="rootType" id="6665866957321038581" />
+      </scope>
+      <scope id="8714292893663420489" at="56,0,92,0">
+        <var name="_context" id="8714292893663420489" />
+      </scope>
+      <scope id="8714292893663420489" at="50,56,92,10" />
+      <scope id="8714292893663420489" at="48,0,94,0" />
+      <scope id="8714292893663420488" at="42,90,97,22">
+        <var name="d0" id="8714292893663420489" />
+        <var name="references" id="8714292893663420488" />
+      </scope>
+      <scope id="8714292893663420488" at="41,0,99,0" />
+      <unit id="8714292893663420488" at="118,0,121,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSpecialReferenceMacro_Constraints$PROPS" />
+      <unit id="6665866957321038727" at="85,31,89,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSpecialReferenceMacro_Constraints$1$1$1" />
+      <unit id="8714292893663420488" at="111,0,117,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSpecialReferenceMacro_Constraints$LINKS" />
+      <unit id="8714292893663420488" at="101,0,110,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSpecialReferenceMacro_Constraints$CONCEPTS" />
+      <unit id="8714292893663420489" at="51,19,92,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSpecialReferenceMacro_Constraints$1$1" />
+      <unit id="8714292893663420489" at="43,48,94,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSpecialReferenceMacro_Constraints$1" />
+      <unit id="8714292893663420488" at="36,0,122,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLSpecialReferenceMacro_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:aa88a3b8-c90e-4870-9ff0-fbabf67ef8ef(languagelab.mps.lang.adaptedGenerator.constraints)/8714292893663434461">
+    <file name="LLPropertyMacro_Constraints.java">
+      <node id="8714292893663434461" at="41,0,42,0" concept="10" trace="LOG" />
+      <node id="8714292893663434461" at="42,40,43,39" concept="11" />
+      <node id="8714292893663434462" at="50,44,51,20" concept="8" />
+      <node id="8714292893663434462" at="58,63,59,57" concept="8" />
+      <node id="5755480520378335592" at="62,80,63,116" concept="3" />
+      <node id="6665866957321038230" at="63,116,64,79" concept="7" />
+      <node id="6665866957321038237" at="64,79,65,207" concept="7" />
+      <node id="6665866957321038248" at="65,207,66,0" concept="9" />
+      <node id="6665866957321038249" at="66,0,67,88" concept="7" />
+      <node id="6665866957321038255" at="67,88,68,27" concept="7" />
+      <node id="6665866957321038260" at="69,90,70,136" concept="3" />
+      <node id="6665866957321038273" at="71,20,72,249" concept="3" />
+      <node id="6665866957321038283" at="73,13,74,36" concept="7" />
+      <node id="5755480520378335598" at="75,36,76,218" concept="3" />
+      <node id="6665866957321038289" at="76,218,77,129" concept="3" />
+      <node id="6665866957321038300" at="78,88,79,95" concept="3" />
+      <node id="6665866957321038311" at="80,15,81,86" concept="7" />
+      <node id="6665866957321038319" at="81,86,82,78" concept="3" />
+      <node id="6665866957321038334" at="83,13,84,0" concept="9" />
+      <node id="6665866957321038348" at="86,50,87,126" concept="8" />
+      <node id="6665866957321038354" at="89,14,90,22" concept="8" />
+      <node id="8714292893663434461" at="94,6,95,131" concept="7" />
+      <node id="8714292893663434462" at="95,131,96,42" concept="3" />
+      <node id="8714292893663434461" at="96,42,97,22" concept="8" />
+      <node id="8714292893663434461" at="99,0,100,0" concept="10" trace="breakingNode_ogl95j_a0a0a0a0a1a0a0a0c" />
+      <node id="8714292893663434461" at="102,0,103,0" concept="10" trace="LLPropertyMacro$gk" />
+      <node id="8714292893663434461" at="103,0,104,0" concept="10" trace="LLTemplateDeclaration$EC" />
+      <node id="8714292893663434461" at="104,0,105,0" concept="10" trace="RootTemplateAnnotation$u8" />
+      <node id="8714292893663434461" at="105,0,106,0" concept="10" trace="LLRootTemplateAnnotation$_J" />
+      <node id="8714292893663434461" at="106,0,107,0" concept="10" trace="INamedConcept$nV" />
+      <node id="8714292893663434461" at="110,0,111,0" concept="10" trace="myAttr$3MQY" />
+      <node id="8714292893663434461" at="111,0,112,0" concept="10" trace="forType$v0G0" />
+      <node id="8714292893663434461" at="112,0,113,0" concept="10" trace="forType$3Tow" />
+      <node id="8714292893663434461" at="116,0,117,0" concept="10" trace="name$tAp1" />
+      <node id="6665866957321038271" at="71,18,73,13" concept="0" />
+      <node id="8714292893663434461" at="42,0,45,0" concept="2" trace="LLPropertyMacro_Constraints#()V" />
+      <node id="6665866957321038298" at="77,129,80,15" concept="5" />
+      <node id="6665866957321038342" at="86,0,89,0" concept="6" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="8714292893663434462" at="49,0,53,0" concept="6" trace="hasOwnScopeProvider#()Z" />
+      <node id="8714292893663434462" at="57,0,61,0" concept="6" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="6665866957321038258" at="68,27,73,13" concept="5" />
+      <node id="6665866957321038335" at="84,0,89,14" concept="7" />
+      <node id="6665866957321038287" at="74,36,83,13" concept="12" />
+      <node id="8714292893663434462" at="61,0,92,0" concept="6" trace="createScope#(Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="8714292893663434462" at="55,56,92,10" concept="8" />
+      <node id="8714292893663434462" at="53,0,94,0" concept="6" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="8714292893663434462" at="47,90,94,6" concept="7" />
+      <node id="8714292893663434461" at="46,0,99,0" concept="6" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="8714292893663434461" at="42,40,43,39" />
+      <scope id="8714292893663434462" at="50,44,51,20" />
+      <scope id="8714292893663434462" at="58,63,59,57" />
+      <scope id="6665866957321038259" at="69,90,70,136" />
+      <scope id="6665866957321038272" at="71,20,72,249" />
+      <scope id="6665866957321038299" at="78,88,79,95" />
+      <scope id="6665866957321038347" at="86,50,87,126" />
+      <scope id="8714292893663434461" at="42,0,45,0" />
+      <scope id="6665866957321038342" at="86,0,89,0">
+        <var name="child" id="6665866957321038345" />
+      </scope>
+      <scope id="8714292893663434462" at="49,0,53,0" />
+      <scope id="8714292893663434462" at="57,0,61,0" />
+      <scope id="6665866957321038288" at="75,36,82,78">
+        <var name="myParent" id="6665866957321038312" />
+      </scope>
+      <scope id="8714292893663434462" at="62,80,90,22">
+        <var name="ls" id="6665866957321038336" />
+        <var name="myRoot" id="6665866957321038250" />
+        <var name="myType" id="6665866957321038284" />
+        <var name="nameProperty" id="6665866957321038238" />
+        <var name="result" id="6665866957321038231" />
+        <var name="rootType" id="6665866957321038256" />
+      </scope>
+      <scope id="8714292893663434462" at="61,0,92,0">
+        <var name="_context" id="8714292893663434462" />
+      </scope>
+      <scope id="8714292893663434462" at="55,56,92,10" />
+      <scope id="8714292893663434462" at="53,0,94,0" />
+      <scope id="8714292893663434461" at="47,90,97,22">
+        <var name="d0" id="8714292893663434462" />
+        <var name="references" id="8714292893663434461" />
+      </scope>
+      <scope id="8714292893663434461" at="46,0,99,0" />
+      <unit id="8714292893663434461" at="115,0,118,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLPropertyMacro_Constraints$PROPS" />
+      <unit id="6665866957321038340" at="85,31,89,13" name="languagelab.mps.lang.adaptedGenerator.constraints.LLPropertyMacro_Constraints$1$1$1" />
+      <unit id="8714292893663434461" at="109,0,114,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLPropertyMacro_Constraints$LINKS" />
+      <unit id="8714292893663434461" at="101,0,108,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLPropertyMacro_Constraints$CONCEPTS" />
+      <unit id="8714292893663434462" at="56,19,92,9" name="languagelab.mps.lang.adaptedGenerator.constraints.LLPropertyMacro_Constraints$1$1" />
+      <unit id="8714292893663434462" at="48,48,94,5" name="languagelab.mps.lang.adaptedGenerator.constraints.LLPropertyMacro_Constraints$1" />
+      <unit id="8714292893663434461" at="40,0,119,0" name="languagelab.mps.lang.adaptedGenerator.constraints.LLPropertyMacro_Constraints" />
+    </file>
+  </root>
+</debug-info>
+

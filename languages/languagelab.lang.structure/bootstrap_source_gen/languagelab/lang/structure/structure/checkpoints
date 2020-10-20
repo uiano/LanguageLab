@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoints>
+  <plan id="LLCheckpoints">
+    <checkpoint id="MpsLanguages" file="llcheckpoints-mpslanguages.mps" />
+  </plan>
+  <plan id="AspectCPS">
+    <checkpoint id="DescriptorClasses" file="aspectcps-descriptorclasses.mps" />
+  </plan>
+</checkpoints>
+
